@@ -38,14 +38,14 @@ ENTITY mill1553_timers IS
       tmr_REP_Stop    : IN     std_logic;
       tmr_SAF_Start   : IN     std_logic;
       tmr_SAF_Stop    : IN     std_logic;
+      tmr_1us         : OUT    std_logic;
       tmr_25us        : OUT    std_logic;
       tmr_Blank       : OUT    std_logic;
       tmr_ERP         : OUT    std_logic;
       tmr_GAP         : OUT    std_logic;
       tmr_NRP         : OUT    std_logic;
       tmr_REP         : OUT    std_logic;
-      tmr_SAF         : OUT    std_logic;
-      tmr_1us         : BUFFER std_logic
+      tmr_SAF         : OUT    std_logic
    );
 
 -- Declarations
@@ -71,11 +71,12 @@ ARCHITECTURE struct OF mill1553_timers IS
    -- Architecture declarations
 
    -- Internal signal declarations
-   SIGNAL NRPtmrReset   : std_logic;
-   SIGNAL reg_tmr_blank : std_logic_vector(15 DOWNTO 0);
-   SIGNAL tmrEnable     : std_logic;
-   SIGNAL tmr_25us_load : std_logic_vector(15 DOWNTO 0);
-   SIGNAL tmr_NRP_Int   : std_logic;
+   SIGNAL NRPtmrReset      : std_logic;
+   SIGNAL reg_tmr_blank    : std_logic_vector(15 DOWNTO 0);
+   SIGNAL tmrEnable        : std_logic;
+   SIGNAL tmr_1us_internal : std_logic;
+   SIGNAL tmr_25us_load    : std_logic_vector(15 DOWNTO 0);
+   SIGNAL tmr_NRP_Int      : std_logic;
 
    -- Implicit buffer signal declarations
    SIGNAL tmr_25us_internal : std_logic;
@@ -124,7 +125,8 @@ BEGIN
 
    -- HDL Embedded Text Block 4 eb1
    -- eb1 4 
-   tmr_NRP <= tmr_NRP_Int or tmr_25us_internal;                                       
+   tmr_NRP <= tmr_NRP_Int or tmr_25us_internal;
+   tmr_1us <= tmr_1us_internal;                                       
 
 
    -- Instance port mappings.
@@ -141,7 +143,7 @@ BEGIN
          Clk        => clk,
          timeout    => OPEN,
          clockout   => OPEN,
-         pulse      => tmr_1us
+         pulse      => tmr_1us_internal
       );
    timer_25us : timer
       GENERIC MAP (
@@ -150,7 +152,7 @@ BEGIN
       PORT MAP (
          nReset     => nReset,
          load_value => tmr_25us_load,
-         en         => tmr_1us,
+         en         => tmr_1us_internal,
          tmrReset   => tmr_25us_Start,
          tmrStop    => tmr_25us_Stop,
          Clk        => clk,
@@ -240,7 +242,7 @@ BEGIN
       PORT MAP (
          nReset     => nReset,
          load_value => reg_tmr_SAF,
-         en         => tmr_1us,
+         en         => tmr_1us_internal,
          tmrReset   => tmr_SAF_Start,
          tmrStop    => tmr_SAF_Stop,
          Clk        => clk,

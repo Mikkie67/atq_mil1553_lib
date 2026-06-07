@@ -1,0 +1,40 @@
+# set the library in vsim that the files following files will be analyzed to
+library mil1553_tb
+analyze osvvm_command_logger_pkg.vhd
+analyze osvvm_mil1553_pkg.vhd
+analyze manchester_vc_pkg.vhd
+analyze osvvm_mil1553_testcntrl_component_pkg.vhd
+analyze osvvm_mil1553_testcntrl_bc2rt_pkg.vhd
+analyze osvvm_mil1553_testcntrl_rt2bc_pkg.vhd
+analyze osvvm_mil1553_testcntrl_rt2rt_pkg.vhd
+analyze osvvm_mil1553_testcntrl_mode_pkg.vhd
+analyze osvvm_mil1553_dualbus_tb_pkg.vhd
+
+analyze mil1553_core_vc_rtl.vhd
+analyze osvvm_mil1553_dualbus_testctrl_entity.vhd
+analyze osvvm_mil1553_dualbus_tb_struct.vhd
+
+analyze osvvm_mil1553_cpu_registers_tb_struct.vhd
+analyze mil1553_cpu_registers_testctrl_entity.vhd
+analyze mil1553_cpu_interface.vhd
+
+
+
+#analyze mil1553_bc2rt_full.vhd
+#analyze mil1553_rt2bc_full.vhd
+#analyze mil1553_rt2rt_full.vhd
+#analyze mil1553_mode_dir.vhd
+
+analyze man_dec_testctrl_entity.vhd
+analyze man_dec_vc_rtl.vhd
+analyze test_man_dec_fsm_fsm2.vhd
+analyze test_man_dec_struct.vhd
+analyze osvvm_manchester_decoder_tb_struct.vhd
+#analyze mil1553_manchester_decoder_direct_input.vhd
+
+
+analyze mill1553_timers_testcntrl_entity.vhd
+analyze mill1553_timers_tb_struct.vhd
+
+analyze manchester_encoder_testcntrl_entity.vhd
+analyze manchester_encoder_tb_struct.vhd

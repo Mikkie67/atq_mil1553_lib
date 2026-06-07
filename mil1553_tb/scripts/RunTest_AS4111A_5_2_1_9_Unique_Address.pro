@@ -1,0 +1,8 @@
+# Individual NVC run for AS4111A_5_2_1_9_Unique_Address
+include RunTest_AS4111A_NVC_dualbus_setup.pro
+
+TestName AS4111A_5_2_1_9_Unique_Address
+analyze ../hdl/osvvm_mil1553_dualbus_testctrl_AS4111A_5_2_1_9_Unique_Address.vhd
+simulate osvvm_mil1553_dualbus_tb_struct
+
+SetCoverageSimulateEnable false

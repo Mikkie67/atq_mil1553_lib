@@ -110,12 +110,12 @@ ENTITY mil1553_cpu_interface IS
       datawrap_subaddr   : OUT    std_logic_vector (4 DOWNTO 0);
       nResetCore1        : OUT    std_logic;
       nResetCore2        : OUT    std_logic;
+      reg_err_inj        : OUT    std_logic_vector (15 DOWNTO 0);
       reg_tmr_1us        : OUT    std_logic_vector (15 DOWNTO 0);
       reg_tmr_GAP        : OUT    std_logic_vector (15 DOWNTO 0);
       reg_tmr_NRP        : OUT    std_logic_vector (15 DOWNTO 0);
       reg_tmr_REP        : OUT    std_logic_vector (15 DOWNTO 0);
       reg_tmr_SAF        : OUT    std_logic_vector (15 DOWNTO 0);
-      reg_err_inj        : INOUT  std_logic_vector (15 DOWNTO 0);
       IsRT               : BUFFER std_logic;
       MyRtAddrInt        : BUFFER std_logic_vector (4 DOWNTO 0);
       MyRtAddrParityInt  : BUFFER std_logic
@@ -218,6 +218,7 @@ ARCHITECTURE struct OF mil1553_cpu_interface IS
    SIGNAL CmdProcLen2_internal   : std_logic_vector (15 DOWNTO 0);
    SIGNAL CmdProcStart1_internal : std_logic_vector (15 DOWNTO 0);
    SIGNAL CmdProcStart2_internal : std_logic_vector (15 DOWNTO 0);
+   SIGNAL reg_err_inj_internal   : std_logic_vector (15 DOWNTO 0);
    SIGNAL reg_tmr_1us_internal   : std_logic_vector (15 DOWNTO 0);
    SIGNAL reg_tmr_GAP_internal   : std_logic_vector (15 DOWNTO 0);
    SIGNAL reg_tmr_NRP_internal   : std_logic_vector (15 DOWNTO 0);
@@ -573,7 +574,7 @@ BEGIN
    mil1553_registers : mil1553_cpu_registers
       GENERIC MAP (
          gID      => X"FEEB",
-         gVersion => X"0503"
+         gVersion => X"0504"
       )
       PORT MAP (
          Addr                   => Addr,
@@ -608,7 +609,7 @@ BEGIN
          reg_mode_cmd_rxed1     => ModeCmd1,
          reg_clear_bits         => reg_clear_bits,
          reg_node_control       => reg_node_control,
-         reg_err_inj_data       => reg_err_inj,
+         reg_err_inj_data       => reg_err_inj_internal,
          reg_status             => reg_Status,
          reg_rx_cmd1            => reg_rx_cmd1,
          reg_tx_control1        => reg_tx_control1,
@@ -693,6 +694,7 @@ BEGIN
    CmdProcLen2   <= CmdProcLen2_internal;
    CmdProcStart1 <= CmdProcStart1_internal;
    CmdProcStart2 <= CmdProcStart2_internal;
+   reg_err_inj   <= reg_err_inj_internal;
    reg_tmr_1us   <= reg_tmr_1us_internal;
    reg_tmr_GAP   <= reg_tmr_GAP_internal;
    reg_tmr_NRP   <= reg_tmr_NRP_internal;

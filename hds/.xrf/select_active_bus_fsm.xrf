@@ -3,78 +3,106 @@ VIEW symbol.sb
 NO_GRAPHIC 0
 DESIGN select_active_bus
 VIEW symbol.sb
-GRAPHIC 50,0 8 0 
+GRAPHIC 50,0 3 0 
 DESIGN select_active_bus
 VIEW symbol.sb
-GRAPHIC 434,0 14 0 
+GRAPHIC 434,0 9 0 
 DESIGN select_active_bus
 VIEW symbol.sb
-GRAPHIC 439,0 15 0 
+GRAPHIC 439,0 10 0 
 DESIGN select_active_bus
 VIEW symbol.sb
-GRAPHIC 454,0 16 0 
+GRAPHIC 454,0 11 0 
 DESIGN select_active_bus
 VIEW symbol.sb
-GRAPHIC 459,0 17 0 
+GRAPHIC 459,0 12 0 
 DESIGN select_active_bus
 VIEW symbol.sb
-GRAPHIC 444,0 18 0 
+GRAPHIC 444,0 13 0 
 DESIGN select_active_bus
 VIEW symbol.sb
-GRAPHIC 449,0 19 0 
+GRAPHIC 449,0 14 0 
 DESIGN select_active_bus
 VIEW symbol.sb
-GRAPHIC 464,0 20 0 
+GRAPHIC 464,0 15 0 
 DESIGN select_active_bus
 VIEW symbol.sb
-GRAPHIC 1,0 23 0 
+GRAPHIC 1,0 18 0 
 DESIGN select_active_bus
 VIEW symbol.sb
-GRAPHIC 1,0 24 0 
+GRAPHIC 1,0 19 0 
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 33,0 36 0
+GRAPHIC 33,0 26 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-NO_GRAPHIC 39
+NO_GRAPHIC 29
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 2,0 60 0
+GRAPHIC 2,0 50 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-NO_GRAPHIC 61
+NO_GRAPHIC 51
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 2,0 64 0
+GRAPHIC 2,0 54 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-NO_GRAPHIC 65
+NO_GRAPHIC 55
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 384,0 66 0
+GRAPHIC 384,0 56 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-NO_GRAPHIC 68
+NO_GRAPHIC 58
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 62,0 72 0
+GRAPHIC 62,0 62 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-NO_GRAPHIC 73
+NO_GRAPHIC 63
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 32,0 75 0
+GRAPHIC 32,0 65 0
+LIBRARY mil1553_lib
+DESIGN select_active_bus
+VIEW fsm.sm
+NO_GRAPHIC 67
+LIBRARY mil1553_lib
+DESIGN select_active_bus
+VIEW fsm.sm
+GRAPHIC 2,0 69 0
+LIBRARY mil1553_lib
+DESIGN select_active_bus
+VIEW fsm.sm
+GRAPHIC 45,0 70 0
+LIBRARY mil1553_lib
+DESIGN select_active_bus
+VIEW fsm.sm
+GRAPHIC 211,0 71 0
+LIBRARY mil1553_lib
+DESIGN select_active_bus
+VIEW fsm.sm
+GRAPHIC 212,0 72 0
+LIBRARY mil1553_lib
+DESIGN select_active_bus
+VIEW fsm.sm
+GRAPHIC 221,0 74 0
+LIBRARY mil1553_lib
+DESIGN select_active_bus
+VIEW fsm.sm
+GRAPHIC 222,0 75 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
@@ -82,27 +110,31 @@ NO_GRAPHIC 77
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 2,0 79 0
+GRAPHIC 172,0 78 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 45,0 80 0
+GRAPHIC 231,0 79 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 211,0 81 0
+GRAPHIC 232,0 80 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 212,0 82 0
+NO_GRAPHIC 82
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 221,0 84 0
+GRAPHIC 189,0 83 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 222,0 85 0
+GRAPHIC 241,0 84 0
+LIBRARY mil1553_lib
+DESIGN select_active_bus
+VIEW fsm.sm
+GRAPHIC 242,0 85 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
@@ -110,55 +142,59 @@ NO_GRAPHIC 87
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 172,0 88 0
+GRAPHIC 2,0 90 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 231,0 89 0
+NO_GRAPHIC 91
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 232,0 90 0
+GRAPHIC 2,0 92 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-NO_GRAPHIC 92
+NO_GRAPHIC 93
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 189,0 93 0
+GRAPHIC 2,0 95 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 241,0 94 0
+NO_GRAPHIC 96
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 242,0 95 0
+GRAPHIC 2,0 98 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-NO_GRAPHIC 97
+GRAPHIC 45,0 99 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 2,0 100 0
+GRAPHIC 211,0 100 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-NO_GRAPHIC 101
+GRAPHIC 172,0 101 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 2,0 102 0
+GRAPHIC 221,0 102 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-NO_GRAPHIC 103
+GRAPHIC 189,0 103 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 2,0 105 0
+NO_GRAPHIC 104
+LIBRARY mil1553_lib
+DESIGN select_active_bus
+VIEW fsm.sm
+GRAPHIC 45,0 105 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
@@ -166,31 +202,51 @@ NO_GRAPHIC 106
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 2,0 112 0
+GRAPHIC 172,0 107 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 45,0 113 0
+GRAPHIC 231,0 108 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 211,0 114 0
+GRAPHIC 189,0 109 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 172,0 115 0
+GRAPHIC 251,0 110 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 221,0 116 0
+GRAPHIC 45,0 111 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 189,0 117 0
+NO_GRAPHIC 112
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-NO_GRAPHIC 118
+GRAPHIC 172,0 113 0
+LIBRARY mil1553_lib
+DESIGN select_active_bus
+VIEW fsm.sm
+NO_GRAPHIC 114
+LIBRARY mil1553_lib
+DESIGN select_active_bus
+VIEW fsm.sm
+GRAPHIC 189,0 115 0
+LIBRARY mil1553_lib
+DESIGN select_active_bus
+VIEW fsm.sm
+GRAPHIC 241,0 116 0
+LIBRARY mil1553_lib
+DESIGN select_active_bus
+VIEW fsm.sm
+GRAPHIC 172,0 117 0
+LIBRARY mil1553_lib
+DESIGN select_active_bus
+VIEW fsm.sm
+GRAPHIC 261,0 118 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
@@ -202,88 +258,32 @@ NO_GRAPHIC 120
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 172,0 121 0
+GRAPHIC 189,0 121 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 231,0 122 0
+NO_GRAPHIC 122
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 189,0 123 0
+GRAPHIC 95,0 123 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 251,0 124 0
+NO_GRAPHIC 125
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 45,0 125 0
+GRAPHIC 2,0 126 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-NO_GRAPHIC 126
+NO_GRAPHIC 127
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-GRAPHIC 172,0 127 0
+GRAPHIC 32,0 129 0
 LIBRARY mil1553_lib
 DESIGN select_active_bus
 VIEW fsm.sm
-NO_GRAPHIC 128
-LIBRARY mil1553_lib
-DESIGN select_active_bus
-VIEW fsm.sm
-GRAPHIC 189,0 129 0
-LIBRARY mil1553_lib
-DESIGN select_active_bus
-VIEW fsm.sm
-GRAPHIC 241,0 130 0
-LIBRARY mil1553_lib
-DESIGN select_active_bus
-VIEW fsm.sm
-GRAPHIC 172,0 131 0
-LIBRARY mil1553_lib
-DESIGN select_active_bus
-VIEW fsm.sm
-GRAPHIC 261,0 132 0
-LIBRARY mil1553_lib
-DESIGN select_active_bus
-VIEW fsm.sm
-GRAPHIC 45,0 133 0
-LIBRARY mil1553_lib
-DESIGN select_active_bus
-VIEW fsm.sm
-NO_GRAPHIC 134
-LIBRARY mil1553_lib
-DESIGN select_active_bus
-VIEW fsm.sm
-GRAPHIC 189,0 135 0
-LIBRARY mil1553_lib
-DESIGN select_active_bus
-VIEW fsm.sm
-NO_GRAPHIC 136
-LIBRARY mil1553_lib
-DESIGN select_active_bus
-VIEW fsm.sm
-GRAPHIC 95,0 137 0
-LIBRARY mil1553_lib
-DESIGN select_active_bus
-VIEW fsm.sm
-NO_GRAPHIC 139
-LIBRARY mil1553_lib
-DESIGN select_active_bus
-VIEW fsm.sm
-GRAPHIC 2,0 140 0
-LIBRARY mil1553_lib
-DESIGN select_active_bus
-VIEW fsm.sm
-NO_GRAPHIC 141
-LIBRARY mil1553_lib
-DESIGN select_active_bus
-VIEW fsm.sm
-GRAPHIC 32,0 143 0
-LIBRARY mil1553_lib
-DESIGN select_active_bus
-VIEW fsm.sm
-NO_GRAPHIC 147
+NO_GRAPHIC 133

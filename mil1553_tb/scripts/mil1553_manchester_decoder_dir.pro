@@ -1,0 +1,45 @@
+#.main clear
+SetVHDLVersion 2008
+SetInteractiveMode true
+TestSuite Mil1553
+
+SetSimulatorResolution ns
+
+build ../../../OsvvmLibraries/osvvm/osvvm.pro
+build ../../../OsvvmLibraries/Common/Common.pro
+
+library at_gen_lib
+analyze ../../../at_gen_lib/hdl/AT_Gen_Lib_pkg.vhd
+analyze ../../../at_gen_lib/hdl/synchroniser_rtl.vhd
+
+library mil1553_lib
+SetCoverageAnalyzeEnable true
+analyze ../../hdl/man_dec_fsm_fsm.vhd
+analyze ../../hdl/manchester_decoder_struct.vhd
+SetCoverageAnalyzeEnable false
+
+library mil1553_tb
+analyze ../hdl/osvvm_command_logger_pkg.vhd
+analyze ../hdl/osvvm_mil1553_pkg.vhd
+analyze ../hdl/manchester_vc_pkg.vhd
+analyze ../hdl/osvvm_mil1553_testcntrl_component_pkg.vhd
+analyze ../hdl/osvvm_mil1553_testcntrl_bc2rt_pkg.vhd
+analyze ../hdl/osvvm_mil1553_testcntrl_rt2bc_pkg.vhd
+analyze ../hdl/osvvm_mil1553_testcntrl_rt2rt_pkg.vhd
+analyze ../hdl/osvvm_mil1553_testcntrl_mode_pkg.vhd
+analyze ../hdl/osvvm_mil1553_dualbus_tb_pkg.vhd
+analyze ../hdl/man_dec_testctrl_entity.vhd
+analyze ../hdl/man_dec_vc_rtl.vhd
+analyze ../hdl/test_man_dec_fsm_fsm2.vhd
+analyze ../hdl/test_man_dec_struct.vhd
+analyze ../hdl/osvvm_manchester_decoder_tb_struct.vhd
+
+SetCoverageSimulateEnable true
+
+TestName mil1553_manchester_decoder_dir
+analyze ../hdl/mil1553_manchester_decoder_dir.vhd
+#.main clear
+simulate osvvm_manchester_decoder_tb_struct
+
+SetCoverageSimulateEnable false
+

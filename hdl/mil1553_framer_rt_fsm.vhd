@@ -230,8 +230,7 @@ ARCHITECTURE fsm OF mil1553_framer_rt IS
       rt6CaptureStatus,
       rt5REPB,
       rt5CaptureStatus,
-      rt5REPA,
-      s0
+      rt5REPA
    );
  
    -- Declare current and next state signals
@@ -402,9 +401,12 @@ BEGIN
             tmr_GAP_Start_cld <= '0';
             tmr_NRP_Start_cld<= '1';
             tmr_NRP_Stop_cld <= '1';
-            
+            PrevStatus <= Status(15 downto 11) & '1' & Status(9 downto 0);
             TxAvail_cld <= '1';
             MessageError <= '1';
+            if (Broadcast = '1') then
+              PrevCmdWord <= CmdWord;
+            end if;
          ELSE
 
             -- Combined Actions
@@ -424,6 +426,9 @@ BEGIN
                        tmr_NRP_Start_cld <= '1';
                        tmr_NRP_Stop_cld <= '1';
                      end if;
+                  ELSIF (NewWord = '1' and Cmd_nDataIn = '0'  and IsRT = '1' and Broadcast = '1') THEN 
+                     MessageError <= '1';
+                     PrevStatus <= Status(15 downto 11) & '1' & Status(9 downto 0);
                   ELSIF ((tmr_NRP = '1' or CmdEdge = '1')) THEN 
                      tmr_NRP_Stop_cld <= '1';
                      tmr_NRP_Start_cld <= '1';
@@ -595,16 +600,25 @@ BEGIN
                      end if;
                      sWaitforStatusActive <= '0';
                      MessageError <= '1';
+                     if (Broadcast = '1') then
+                       PrevCmdWord <= CmdWord;
+                     end if;
                   END IF;
                WHEN rt1Wait1stWord => 
                   IF (newWord = '1' and Cmd_nDataIn = '1' and Outword(15 downto 11) = MyRtAddr) THEN 
+                     if (Broadcast = '1') then
+                       MessageError <= '1';
+                       PrevCmdWord <= CmdWord;
+                       PrevStatus <= Status(15 downto 11) & '1' & Status(9 downto 0);
+                     else
+                       PrevStatus <= Status;
+                     end if;
                      -- RX Command word decoding
                      CmdRxed_cld <= Outword;
                      RtAddr <= Outword(15 downto 11);
                      Tx_nRx <= Outword(10);
                      RtSubAddr <= Outword(9 downto 5);
                      RtLen_Mode <= Outword(4 downto 0);
-                     PrevStatus <= Status;
                      CmdWord <= Outword;
                      sWaitforStatusActive <= '0';
                      StatusRxedFlag_cld <= '0';
@@ -642,6 +656,10 @@ BEGIN
                      end if;
                      sWaitforStatusActive <= '0';
                      MessageError <= '1';
+                     if (Broadcast = '1') then
+                       PrevCmdWord <= CmdWord;
+                       PrevStatus <= Status(15 downto 11) & '1' & Status(9 downto 0);
+                     end if;
                   ELSIF (NewWord = '1' and Cmd_nDataIn = '1') THEN 
                      tmr_25us_Stop_cld <= '0';
                      tmr_25us_Start_cld <= '1';
@@ -819,17 +837,18 @@ BEGIN
                      tmr_REP_Stop_cld <= '1';
                   END IF;
                WHEN rtNoBroadcast => 
+                  PrevStatus <= Status;
                   tmr_GAP_Stop_cld <= '0';
                   tmr_GAP_Start_cld <= '1';
                   tmr_NRP_Stop_cld <= '1';
                   tmr_NRP_Start_cld <= '1';
-                  PrevStatus <= Status;
                WHEN rtWrngAddr => 
+                  MessageError <= '0';
+                  PrevStatus <= Status(15 downto 11) & '0' & Status(9 downto 0);
                   tmr_GAP_Stop_cld <= '0';
                   tmr_GAP_Start_cld <= '1';
                   tmr_NRP_Stop_cld <= '1';
                   tmr_NRP_Start_cld <= '1';
-                  PrevStatus <= Status;
                WHEN rt1REP_B => 
                   IF (PosEdge = '1') THEN 
                      SendWord_cld <= '0';
@@ -877,7 +896,10 @@ BEGIN
                      DataReqFlag_cld <= '1';
                   END IF;
                WHEN rtRxGap => 
-                  IF (tmr_Gap = '1') THEN 
+                  IF (NewWord = '1' and Cmd_nDataIn = '0' and IsRT = '1' and Broadcast = '1') THEN 
+                     MessageError <= '1';
+                     PrevStatus <= Status(15 downto 11) & '1' & Status(9 downto 0);
+                  ELSIF (tmr_Gap = '1') THEN 
                      WordCount <= 0;
                      CmdCount <= 0;
                      RtSubAddr <= "00000";
@@ -929,12 +951,6 @@ BEGIN
                   END IF;
                WHEN rt5CaptureStatus => 
                   PrevStatus <= Status;
-               WHEN s0 => 
-                  IF (NewWord = '1' and Cmd_nDataIn = '0'  and IsRT = '1') THEN 
-                     -- force the message error bit high in previous status 
-                     -- due to unexpected data word, probably due to to many data word sent by BC
-                     PrevStatus <= PrevStatus(15 downto 11) & '1' & PrevStatus(9 downto 0);
-                  END IF;
                WHEN OTHERS =>
                   NULL;
             END CASE;
@@ -986,6 +1002,8 @@ BEGIN
             WHEN sIdle => 
                IF (NewWord = '1' and Cmd_nDataIn = '1'  and IsRT = '1') THEN 
                   next_state <= rtRxedCmd1;
+               ELSIF (NewWord = '1' and Cmd_nDataIn = '0'  and IsRT = '1' and Broadcast = '1') THEN 
+                  next_state <= sIdle;
                ELSIF ((tmr_NRP = '1' or CmdEdge = '1')) THEN 
                   next_state <= sClrNRP;
                ELSE
@@ -1161,7 +1179,9 @@ BEGIN
                   next_state <= rt1RT2RT_transition;
                END IF;
             WHEN rtRxGap => 
-               IF (tmr_Gap = '1') THEN 
+               IF (NewWord = '1' and Cmd_nDataIn = '0' and IsRT = '1' and Broadcast = '1') THEN 
+                  next_state <= sIdle;
+               ELSIF (tmr_Gap = '1') THEN 
                   next_state <= sIdle;
                ELSE
                   next_state <= rtRxGap;
@@ -1195,12 +1215,6 @@ BEGIN
                   next_state <= rt5REPB;
                ELSE
                   next_state <= rt5REPA;
-               END IF;
-            WHEN s0 => 
-               IF (NewWord = '1' and Cmd_nDataIn = '0'  and IsRT = '1') THEN 
-                  next_state <= sIdle;
-               ELSE
-                  next_state <= s0;
                END IF;
             WHEN OTHERS =>
                next_state <= sIdle;

@@ -46,7 +46,6 @@ END repeat_timer ;
 -- *********************************************************************************************************************
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
-USE ieee.std_logic_arith.all;
 
 LIBRARY at_gen_lib;
 

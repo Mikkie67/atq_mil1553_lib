@@ -1,0 +1,8 @@
+# Individual NVC run for AS4111A_5_2_1_2_1_InterMsgGap
+include RunTest_AS4111A_NVC_dualbus_setup.pro
+
+TestName AS4111A_5_2_1_2_1_InterMsgGap
+analyze ../hdl/osvvm_mil1553_dualbus_testctrl_AS4111A_5_2_1_2_1_InterMsgGap.vhd
+simulate osvvm_mil1553_dualbus_tb_struct
+
+SetCoverageSimulateEnable false

@@ -33,7 +33,7 @@ ENTITY manchester_decoder IS
       NewWord      : OUT    std_logic;
       OutWord      : OUT    std_logic_vector (15 DOWNTO 0);
       ParityErrCnt : OUT    integer;
-      SyncPosEdge  : BUFFER std_logic
+      SyncPosEdge  : OUT    std_logic
    );
 
 -- Declarations

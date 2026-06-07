@@ -177,9 +177,6 @@ ARCHITECTURE struct OF mill1553_dualbus IS
    SIGNAL tmr_SAF1           : std_logic;
    SIGNAL tmr_SAF2           : std_logic;
 
-   -- Implicit buffer signal declarations
-   SIGNAL OutEn1_internal : std_logic;
-   SIGNAL OutEn2_internal : std_logic;
 
 
    -- Component Declarations
@@ -281,12 +278,12 @@ ARCHITECTURE struct OF mill1553_dualbus IS
       datawrap_subaddr   : OUT    std_logic_vector (4 DOWNTO 0);
       nResetCore1        : OUT    std_logic ;
       nResetCore2        : OUT    std_logic ;
+      reg_err_inj        : OUT    std_logic_vector (15 DOWNTO 0);
       reg_tmr_1us        : OUT    std_logic_vector (15 DOWNTO 0);
       reg_tmr_GAP        : OUT    std_logic_vector (15 DOWNTO 0);
       reg_tmr_NRP        : OUT    std_logic_vector (15 DOWNTO 0);
       reg_tmr_REP        : OUT    std_logic_vector (15 DOWNTO 0);
       reg_tmr_SAF        : OUT    std_logic_vector (15 DOWNTO 0);
-      reg_err_inj        : INOUT  std_logic_vector (15 DOWNTO 0);
       IsRT               : BUFFER std_logic ;
       MyRtAddrInt        : BUFFER std_logic_vector (4 DOWNTO 0);
       MyRtAddrParityInt  : BUFFER std_logic 
@@ -343,6 +340,7 @@ ARCHITECTURE struct OF mill1553_dualbus IS
       ModeCmd           : OUT    std_logic_vector (15 DOWNTO 0);
       ModeData          : OUT    std_logic_vector (15 DOWNTO 0);
       NewModeCmd        : OUT    std_logic ;
+      OutEn             : OUT    std_logic ;
       OutN              : OUT    std_logic ;
       OutP              : OUT    std_logic ;
       RxDataAddr        : OUT    std_logic_vector (9 DOWNTO 0);
@@ -359,11 +357,10 @@ ARCHITECTURE struct OF mill1553_dualbus IS
       TxDataAddr        : OUT    std_logic_vector (9 DOWNTO 0);
       TxOffOut          : OUT    std_logic ;
       UnexpectedEdgeCnt : OUT    std_logic_vector (15 DOWNTO 0);
-      OutEn             : BUFFER std_logic ;
-      tmr_GAP           : BUFFER std_logic ;
-      tmr_NRP           : BUFFER std_logic ;
-      tmr_REP           : BUFFER std_logic ;
-      tmr_SAF           : BUFFER std_logic 
+      tmr_GAP           : OUT    std_logic ;
+      tmr_NRP           : OUT    std_logic ;
+      tmr_REP           : OUT    std_logic ;
+      tmr_SAF           : OUT    std_logic 
    );
    END COMPONENT;
    COMPONENT select_active_bus
@@ -516,12 +513,12 @@ BEGIN
          datawrap_subaddr   => datawrap_subaddr,
          nResetCore1        => nResetCore1,
          nResetCore2        => nResetCore2,
+         reg_err_inj        => reg_err_inj,
          reg_tmr_1us        => reg_tmr_1us,
          reg_tmr_GAP        => reg_tmr_GAP,
          reg_tmr_NRP        => reg_tmr_NRP,
          reg_tmr_REP        => reg_tmr_REP,
          reg_tmr_SAF        => reg_tmr_SAF,
-         reg_err_inj        => reg_err_inj,
          IsRT               => IsRT,
          MyRtAddrInt        => MyRtAddrInt,
          MyRtAddrParityInt  => MyRtAddrParityInt
@@ -577,6 +574,7 @@ BEGIN
          ModeCmd           => ModeCmd1,
          ModeData          => ModeData1,
          NewModeCmd        => NewModeCmd1,
+         OutEn             => OutEn1,
          OutN              => OutN1,
          OutP              => OutP1,
          RxDataAddr        => RxDataAddr1,
@@ -593,7 +591,6 @@ BEGIN
          TxDataAddr        => TxDataAddr1,
          TxOffOut          => TxOffOut1,
          UnexpectedEdgeCnt => UnexpectedEdgeCnt1,
-         OutEn             => OutEn1_internal,
          tmr_GAP           => tmr_GAP1,
          tmr_NRP           => tmr_NRP1,
          tmr_REP           => tmr_REP1,
@@ -650,6 +647,7 @@ BEGIN
          ModeCmd           => ModeCmd2,
          ModeData          => ModeData2,
          NewModeCmd        => NewModeCmd2,
+         OutEn             => OutEn2,
          OutN              => OutN2,
          OutP              => OutP2,
          RxDataAddr        => RxDataAddr2,
@@ -666,7 +664,6 @@ BEGIN
          TxDataAddr        => TxDataAddr2,
          TxOffOut          => TxOffOut2,
          UnexpectedEdgeCnt => UnexpectedEdgeCnt2,
-         OutEn             => OutEn2_internal,
          tmr_GAP           => tmr_GAP2,
          tmr_NRP           => tmr_NRP2,
          tmr_REP           => tmr_REP2,
@@ -683,8 +680,5 @@ BEGIN
          RtActiveBus      => RtActiveBus
       );
 
-   -- Implicit buffered output assignments
-   OutEn1 <= OutEn1_internal;
-   OutEn2 <= OutEn2_internal;
 
 END struct;

@@ -241,7 +241,8 @@ ARCHITECTURE fsm OF mil1553_framer_bc IS
       bcPreMsgTxGap,
       bc1SendWord1,
       s0,
-      s1
+      s1,
+      bc2SendContiguousData
    );
  
    -- Declare current and next state signals
@@ -571,7 +572,13 @@ BEGIN
                   tmr_GAP_Stop_cld <= '1';
                   tmr_GAP_Start_cld <= '1';
                WHEN bc2SendCw => 
-                  IF (Done = '1') THEN 
+                  IF (Done = '1' and Err_inj(3 downto 0) = "0111") THEN 
+                     DataOut_cld <= X"A5A5";
+                     Cmd_nData_cld <= '0';
+                     SendWord_cld <= '1';
+                     tmr_25us_Stop_cld <= '1';
+                     WordCount <= 0;
+                  ELSIF (Done = '1') THEN 
                      SendWord_cld <= '0';
                      tmr_25us_Stop_cld <= '1';
                      tmr_NRP_Start_cld <= '1';
@@ -1076,9 +1083,7 @@ BEGIN
                   END IF;
                WHEN bc1SendWord1 => 
                   IF (NOT(Len = 0)) THEN 
-                     if (Err_inj(3 downto 0 ) /= "0011") then 
                      WordCount <= WordCount + 1;
-                     end if;
                      DataOut_cld <= TxDataIn(15 downto 0);
                      Cmd_nData_cld <= '0';
                      SendWord_cld <= '1';
@@ -1088,6 +1093,18 @@ BEGIN
                      -- force the message error bit high in previous status 
                      -- due to unexpected data word, probably due to to many data word sent by BC
                      PrevStatus <= PrevStatus(15 downto 11) & '1' & PrevStatus(9 downto 0);
+                  END IF;
+               WHEN bc2SendContiguousData => 
+                  IF (Done = '1') THEN 
+                     SendWord_cld <= '0';
+                     tmr_25us_Stop_cld <= '1';
+                     tmr_NRP_Start_cld <= '1';
+                     tmr_NRP_Stop_cld <= '0';
+                     WordCount <= 0;
+                     -- start the tREP to blank the decoder
+                     tmr_REP_Start_cld <= '1';
+                     tmr_REP_Stop_cld <= '0';
+                     BlankDecoder_cld <= '1';
                   END IF;
                WHEN OTHERS =>
                   NULL;
@@ -1194,7 +1211,9 @@ BEGIN
             WHEN sClrNRP => 
                next_state <= sIdle;
             WHEN bc2SendCw => 
-               IF (Done = '1') THEN 
+               IF (Done = '1' and Err_inj(3 downto 0) = "0111") THEN 
+                  next_state <= bc2SendContiguousData;
+               ELSIF (Done = '1') THEN 
                   next_state <= bc2CmdDone;
                ELSE
                   next_state <= bc2SendCw;
@@ -1442,6 +1461,12 @@ BEGIN
                   next_state <= sIdle;
                ELSE
                   next_state <= s1;
+               END IF;
+            WHEN bc2SendContiguousData => 
+               IF (Done = '1') THEN 
+                  next_state <= bc2CmdDone;
+               ELSE
+                  next_state <= bc2SendContiguousData;
                END IF;
             WHEN OTHERS =>
                next_state <= sIdle;

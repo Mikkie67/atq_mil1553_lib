@@ -1,0 +1,15 @@
+DESIGN osvvm_manchester_decoder_tb
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN osvvm_manchester_decoder_tb
+VIEW symbol.sb
+GRAPHIC 18,0 3 0 
+DESIGN osvvm_manchester_decoder_tb
+VIEW symbol.sb
+GRAPHIC 13,0 6 1 
+DESIGN osvvm_manchester_decoder_tb
+VIEW symbol.sb
+GRAPHIC 1,0 11 0 
+DESIGN osvvm_manchester_decoder_tb
+VIEW symbol.sb
+GRAPHIC 1,0 12 0 

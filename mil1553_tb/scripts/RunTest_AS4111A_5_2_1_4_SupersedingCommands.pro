@@ -1,0 +1,8 @@
+# Individual NVC run for AS4111A_5_2_1_4_SupersedingCommands
+include RunTest_AS4111A_NVC_dualbus_setup.pro
+
+TestName AS4111A_5_2_1_4_SupersedingCommands
+analyze ../hdl/osvvm_mil1553_dualbus_testctrl_AS4111A_5_2_1_4_SupersedingCommands.vhd
+simulate osvvm_mil1553_dualbus_tb_struct
+
+SetCoverageSimulateEnable false

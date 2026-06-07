@@ -1,0 +1,12 @@
+*.bin
+*.bak
+*.lck
+work/@_opt*/
+~*
+work/*
+work/*/
+work/*/*
+!work/*.do
+!work/*.ini
+!work/*.txt
+!work/*.hex

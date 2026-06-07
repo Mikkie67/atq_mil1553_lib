@@ -1,0 +1,8 @@
+# Individual NVC run for AS4111A_5_2_1_8_BusSwitching
+include RunTest_AS4111A_NVC_dualbus_setup.pro
+
+TestName AS4111A_5_2_1_8_BusSwitching
+analyze ../hdl/osvvm_mil1553_dualbus_testctrl_AS4111A_5_2_1_8_BusSwitching.vhd
+simulate osvvm_mil1553_dualbus_tb_struct
+
+SetCoverageSimulateEnable false

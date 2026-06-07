@@ -3,198 +3,198 @@ VIEW symbol.sb
 NO_GRAPHIC 0
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 50,0 8 0 
+GRAPHIC 50,0 3 0 
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 13,0 15 1 
+GRAPHIC 13,0 10 1 
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 224,0 19 0 
+GRAPHIC 224,0 14 0 
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 436,0 20 0 
+GRAPHIC 436,0 15 0 
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 229,0 21 0 
+GRAPHIC 229,0 16 0 
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 515,0 22 0 
+GRAPHIC 515,0 17 0 
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 520,0 23 0 
+GRAPHIC 520,0 18 0 
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 535,0 24 0 
+GRAPHIC 535,0 19 0 
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 540,0 25 0 
+GRAPHIC 540,0 20 0 
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 510,0 26 0 
+GRAPHIC 510,0 21 0 
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 584,0 27 0 
+GRAPHIC 584,0 22 0 
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 525,0 28 0 
+GRAPHIC 525,0 23 0 
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 646,0 29 0 
+GRAPHIC 646,0 24 0 
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 641,0 30 0 
+GRAPHIC 641,0 25 0 
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 651,0 31 0 
+GRAPHIC 651,0 26 0 
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 1,0 34 0 
+GRAPHIC 1,0 29 0 
 DESIGN repeat_timer
 VIEW symbol.sb
-GRAPHIC 1,0 35 0 
+GRAPHIC 1,0 30 0 
 DESIGN repeat_timer
 VIEW struct.bd
-NO_GRAPHIC 38
+NO_GRAPHIC 33
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 249,0 46 0 
+GRAPHIC 249,0 37 0 
 DESIGN repeat_timer
 VIEW struct.bd
-NO_GRAPHIC 49
+NO_GRAPHIC 40
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 0,0 52 2 
+GRAPHIC 0,0 43 2 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 385,0 57 0 
+GRAPHIC 385,0 48 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 401,0 58 0 
+GRAPHIC 401,0 49 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 393,0 59 0 
+GRAPHIC 393,0 50 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 417,0 60 0 
+GRAPHIC 417,0 51 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 409,0 61 0 
+GRAPHIC 409,0 52 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 425,0 62 0 
+GRAPHIC 425,0 53 0 
 DESIGN repeat_timer
 VIEW struct.bd
-NO_GRAPHIC 63
+NO_GRAPHIC 54
 DESIGN repeat_timer
 VIEW struct.bd
-NO_GRAPHIC 64
+NO_GRAPHIC 55
 LIBRARY at_gen_lib
 DESIGN timer_double
 VIEW struct
-GRAPHIC 317,0 66 0 
+GRAPHIC 317,0 57 0 
 DESIGN timer_double
 VIEW symbol.sb
-GRAPHIC 224,0 68 0 
+GRAPHIC 224,0 59 0 
 DESIGN timer_double
 VIEW symbol.sb
-GRAPHIC 436,0 69 0 
+GRAPHIC 436,0 60 0 
 DESIGN timer_double
 VIEW symbol.sb
-GRAPHIC 229,0 70 0 
+GRAPHIC 229,0 61 0 
 DESIGN timer_double
 VIEW symbol.sb
-GRAPHIC 515,0 71 0 
+GRAPHIC 515,0 62 0 
 DESIGN timer_double
 VIEW symbol.sb
-GRAPHIC 520,0 72 0 
+GRAPHIC 520,0 63 0 
 DESIGN timer_double
 VIEW symbol.sb
-GRAPHIC 535,0 73 0 
+GRAPHIC 535,0 64 0 
 DESIGN timer_double
 VIEW symbol.sb
-GRAPHIC 540,0 74 0 
+GRAPHIC 540,0 65 0 
 DESIGN timer_double
 VIEW symbol.sb
-GRAPHIC 510,0 75 0 
+GRAPHIC 510,0 66 0 
 DESIGN timer_double
 VIEW symbol.sb
-GRAPHIC 584,0 76 0 
+GRAPHIC 584,0 67 0 
 DESIGN timer_double
 VIEW symbol.sb
-GRAPHIC 525,0 77 0 
+GRAPHIC 525,0 68 0 
 DESIGN timer_double
 VIEW symbol.sb
-GRAPHIC 646,0 78 0 
+GRAPHIC 646,0 69 0 
 DESIGN timer_double
 VIEW symbol.sb
-GRAPHIC 641,0 79 0 
+GRAPHIC 641,0 70 0 
 DESIGN timer_double
 VIEW symbol.sb
-GRAPHIC 651,0 80 0 
+GRAPHIC 651,0 71 0 
 LIBRARY mil1553_lib
 DESIGN repeat_timer
 VIEW struct.bd
-NO_GRAPHIC 83
+NO_GRAPHIC 74
 DESIGN repeat_timer
 VIEW struct.bd
-NO_GRAPHIC 84
+NO_GRAPHIC 75
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 379,0 87 0 
+GRAPHIC 379,0 78 0 
 DESIGN repeat_timer
 VIEW struct.bd
-NO_GRAPHIC 100
+NO_GRAPHIC 91
 DESIGN repeat_timer
 VIEW struct.bd
-NO_GRAPHIC 101
+NO_GRAPHIC 92
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 449,0 104 0 
+GRAPHIC 449,0 95 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 317,0 107 0 
+GRAPHIC 317,0 98 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 317,0 111 0 
+GRAPHIC 317,0 102 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 15,0 113 0 
+GRAPHIC 15,0 104 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 29,0 114 0 
+GRAPHIC 29,0 105 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 57,0 115 0 
+GRAPHIC 57,0 106 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 85,0 116 0 
+GRAPHIC 85,0 107 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 99,0 117 0 
+GRAPHIC 99,0 108 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 141,0 118 0 
+GRAPHIC 141,0 109 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 183,0 119 0 
+GRAPHIC 183,0 110 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 387,0 120 0 
+GRAPHIC 387,0 111 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 403,0 121 0 
+GRAPHIC 403,0 112 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 395,0 122 0 
+GRAPHIC 395,0 113 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 419,0 123 0 
+GRAPHIC 419,0 114 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 411,0 124 0 
+GRAPHIC 411,0 115 0 
 DESIGN repeat_timer
 VIEW struct.bd
-GRAPHIC 427,0 125 0 
+GRAPHIC 427,0 116 0 
 DESIGN repeat_timer
 VIEW struct.bd
-NO_GRAPHIC 130
+NO_GRAPHIC 121

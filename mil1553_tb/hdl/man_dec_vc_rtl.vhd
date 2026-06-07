@@ -143,7 +143,7 @@ architecture rtl of man_dec_vc is
     -- Send Command word pattern
     SendCmdSyncPattern(InPSig);
     for Index in CmdWord'range loop
-      if (Index = ErrorBit) and (man_dec_bus.ErrorMode = "100")  then
+      if (Index = ErrorBit) and (std_logic_vector(man_dec_bus.ErrorMode) = MAN_DEC_ZEROCROSS_ERROR)  then
         Log("Inserting a zero offset delay of " & to_string(EdgeOffset) & " in bit position " & to_string(ErrorBit),DEBUG);
         SendBit(InPSig, CmdWord(Index), EdgeOffset);
       else

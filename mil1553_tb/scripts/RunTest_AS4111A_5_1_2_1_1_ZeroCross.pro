@@ -1,0 +1,8 @@
+# Individual NVC run for AS4111A_5_1_2_1_1_ZeroCross
+include RunTest_AS4111A_NVC_mandec_setup.pro
+
+TestName AS4111A_5_1_2_1_1_ZeroCross
+analyze ../hdl/man_dec_testctrl_AS4111A_5_1_2_1_1_ZeroCross.vhd
+simulate osvvm_manchester_decoder_tb_struct
+
+SetCoverageSimulateEnable false

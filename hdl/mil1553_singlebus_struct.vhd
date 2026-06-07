@@ -63,6 +63,7 @@ ENTITY mil1553_singlebus IS
       ModeCmd           : OUT    std_logic_vector (15 DOWNTO 0);
       ModeData          : OUT    std_logic_vector (15 DOWNTO 0);
       NewModeCmd        : OUT    std_logic;
+      OutEn             : OUT    std_logic;
       OutN              : OUT    std_logic;
       OutP              : OUT    std_logic;
       RxDataAddr        : OUT    std_logic_vector (9 DOWNTO 0);
@@ -79,11 +80,10 @@ ENTITY mil1553_singlebus IS
       TxDataAddr        : OUT    std_logic_vector (9 DOWNTO 0);
       TxOffOut          : OUT    std_logic;
       UnexpectedEdgeCnt : OUT    std_logic_vector (15 DOWNTO 0);
-      OutEn             : BUFFER std_logic;
-      tmr_GAP           : BUFFER std_logic;
-      tmr_NRP           : BUFFER std_logic;
-      tmr_REP           : BUFFER std_logic;
-      tmr_SAF           : BUFFER std_logic
+      tmr_GAP           : OUT    std_logic;
+      tmr_NRP           : OUT    std_logic;
+      tmr_REP           : OUT    std_logic;
+      tmr_SAF           : OUT    std_logic
    );
 
 -- Declarations
@@ -149,15 +149,19 @@ ARCHITECTURE struct OF mil1553_singlebus IS
    SIGNAL tmr_ERP_enable    : std_logic;
    SIGNAL tmr_GAP_Start     : std_logic;
    SIGNAL tmr_GAP_Stop      : std_logic;
+   SIGNAL tmr_GAP_internal  : std_logic;
    SIGNAL tmr_NRP_Start     : std_logic;
    SIGNAL tmr_NRP_Start1    : std_logic;
    SIGNAL tmr_NRP_Stop      : std_logic;
+   SIGNAL tmr_NRP_internal  : std_logic;
    SIGNAL tmr_REP_Start     : std_logic;
    SIGNAL tmr_REP_Stop      : std_logic;
+   SIGNAL tmr_REP_internal  : std_logic;
    SIGNAL tmr_SAF_Start     : std_logic;
    SIGNAL tmr_SAF_Start1    : std_logic;
    SIGNAL tmr_SAF_Start2    : std_logic;
    SIGNAL tmr_SAF_Stop      : std_logic;
+   SIGNAL tmr_SAF_internal  : std_logic;
 
    -- Implicit buffer signal declarations
    SIGNAL TerminalFlag_internal : std_logic;
@@ -199,7 +203,7 @@ ARCHITECTURE struct OF mil1553_singlebus IS
       NewWord      : OUT    std_logic ;
       OutWord      : OUT    std_logic_vector (15 DOWNTO 0);
       ParityErrCnt : OUT    integer ;
-      SyncPosEdge  : BUFFER std_logic 
+      SyncPosEdge  : OUT    std_logic 
    );
    END COMPONENT;
    COMPONENT manchester_encoder
@@ -340,14 +344,14 @@ ARCHITECTURE struct OF mil1553_singlebus IS
       tmr_REP_Stop    : IN     std_logic ;
       tmr_SAF_Start   : IN     std_logic ;
       tmr_SAF_Stop    : IN     std_logic ;
+      tmr_1us         : OUT    std_logic ;
       tmr_25us        : OUT    std_logic ;
       tmr_Blank       : OUT    std_logic ;
       tmr_ERP         : OUT    std_logic ;
       tmr_GAP         : OUT    std_logic ;
       tmr_NRP         : OUT    std_logic ;
       tmr_REP         : OUT    std_logic ;
-      tmr_SAF         : OUT    std_logic ;
-      tmr_1us         : BUFFER std_logic 
+      tmr_SAF         : OUT    std_logic 
    );
    END COMPONENT;
 
@@ -377,7 +381,7 @@ BEGIN
    tmr_1us_Start <= '0';
    tmr_1us_Stop <= '0';
    nResetEnc <= '0' when SendMessage = '1' else
-                              nReset when tmr_SAF = '0' else 
+                              nReset when tmr_SAF_internal = '0' else 
                               '1';
    tmr_NRP_Start <= tmr_NRP_Start1 or CmdEdge or NewWord;
    tmr_ERP_enable <= LastBitEdge;
@@ -385,12 +389,17 @@ BEGIN
    tmr_ERP_Stop <= '0';
    reg_tmr_ERP <= X"0190";  --4.01us
    
+   tmr_GAP <= tmr_GAP_internal;
+   tmr_NRP <= tmr_NRP_internal;
+   tmr_REP <= tmr_REP_internal;
+   tmr_SAF <= tmr_SAF_internal;
+   
    
                               
 
    -- HDL Embedded Text Block 4 TransmitterControl1
-   -- TransmitterControl 3     
-   OutEn <= OutEn1 when TxOffIn = '0' and tmr_SAF = '0' else '0';     
+   -- TransmitterControl1 4   
+   OutEn <= OutEn1 when TxOffIn = '0' and tmr_SAF_internal = '0' else '0';     
    Strobe <= OutEn;      
    nOutEn1 <= not OutEn1;   
    tmr_SAF_Stop <= nOutEn1;    
@@ -511,10 +520,10 @@ BEGIN
          nReset                 => nReset,
          tmr_1us                => tmr_1us,
          tmr_25us               => tmr_25us,
-         tmr_GAP                => tmr_GAP,
-         tmr_NRP                => tmr_NRP,
-         tmr_REP                => tmr_REP,
-         tmr_SAF                => tmr_SAF,
+         tmr_GAP                => tmr_GAP_internal,
+         tmr_NRP                => tmr_NRP_internal,
+         tmr_REP                => tmr_REP_internal,
+         tmr_SAF                => tmr_SAF_internal,
          BlankDecoder           => BlankDecoder,
          BusActive              => BusActive,
          BusReset_Rxed          => BusReset_Rxed,
@@ -581,14 +590,14 @@ BEGIN
          tmr_REP_Stop    => tmr_REP_Stop,
          tmr_SAF_Start   => tmr_SAF_Start,
          tmr_SAF_Stop    => tmr_SAF_Stop,
+         tmr_1us         => tmr_1us,
          tmr_25us        => tmr_25us,
          tmr_Blank       => tmr_Blank,
          tmr_ERP         => tmr_ERP,
-         tmr_GAP         => tmr_GAP,
-         tmr_NRP         => tmr_NRP,
-         tmr_REP         => tmr_REP,
-         tmr_SAF         => tmr_SAF,
-         tmr_1us         => tmr_1us
+         tmr_GAP         => tmr_GAP_internal,
+         tmr_NRP         => tmr_NRP_internal,
+         tmr_REP         => tmr_REP_internal,
+         tmr_SAF         => tmr_SAF_internal
       );
 
    -- Implicit buffered output assignments

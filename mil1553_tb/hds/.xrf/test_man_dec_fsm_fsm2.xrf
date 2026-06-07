@@ -1,0 +1,1359 @@
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 18,0 3 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 13,0 8 1 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 597,0 14 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 1261,0 15 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 607,0 16 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 627,0 17 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 632,0 18 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 637,0 19 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 642,0 20 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 617,0 21 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 1026,0 22 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 950,0 23 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 1291,0 24 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 799,0 25 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 788,0 26 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 1473,0 27 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 1374,0 28 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 612,0 29 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 622,0 30 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 1155,0 31 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 1160,0 32 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 1344,0 33 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 1,0 36 0 
+DESIGN test_man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 1,0 37 0 
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 33,0 44 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 47
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 6,0 51 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 67
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2,0 109 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 110
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2,0 113 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 114
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 297,0 115 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 117
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 62,0 137 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 138
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 32,0 140 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 145
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2,0 147 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 148 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 60,0 149 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 182,0 150 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 183,0 151 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 155
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 160,0 156 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 996,0 157 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 997,0 158 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1140,0 159 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1141,0 160 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1113,0 163 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1114,0 164 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 272,0 167 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 273,0 168 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 169
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 330,0 170 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 372,0 171 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 373,0 172 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1162,0 173 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1163,0 174 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 362,0 175 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 363,0 176 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 177
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 377,0 178 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 835,0 179 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1523,0 180 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1524,0 181 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1211,0 184 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1212,0 185 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1613,0 188 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1614,0 189 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 697,0 192 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 698,0 193 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 419,0 197 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 420,0 198 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 199
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 495,0 200 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2165,0 201 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2166,0 202 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1761,0 204 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1762,0 205 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 537,0 207 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 538,0 208 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1725,0 211 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1726,0 212 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 213
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1048,0 214 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 821,0 215 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 822,0 216 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1080,0 217 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1081,0 218 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2565,0 225 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2566,0 226 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1070,0 227 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1071,0 228 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 229
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1222,0 230 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1287,0 231 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1316,0 232 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1317,0 233 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1306,0 234 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1388,0 235 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1389,0 236 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 237
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1239,0 238 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1699,0 239 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1700,0 240 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1751,0 243 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1752,0 244 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1358,0 247 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1359,0 248 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1338,0 252 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1368,0 253 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1369,0 254 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1378,0 258 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1379,0 259 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 260
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1396,0 261 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1799,0 262 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1435,0 263 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1436,0 264 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1809,0 267 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1886,0 268 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1887,0 269 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 270
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1413,0 271 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1831,0 272 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1860,0 273 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1861,0 274 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1876,0 277 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1877,0 278 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 281
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1897,0 282 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 283
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1585,0 284 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1641,0 285 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1683,0 286 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1684,0 287 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2461,0 289 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2462,0 290 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1670,0 292 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1657,0 293 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1658,0 294 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1771,0 295 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1772,0 296 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1735,0 298 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1736,0 299 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 300
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2193,0 301 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1184,0 302 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1185,0 303 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 304
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2433,0 305 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1539,0 306 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1540,0 307 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 308
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2,0 311 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 312
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2,0 313 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 314
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2,0 316 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 317
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2,0 319 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 320 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 182,0 321 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1048,0 322 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 323
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 324 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 325
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 160,0 326 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 996,0 327 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 328 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1140,0 329 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1222,0 330 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1113,0 331 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 330,0 332 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 272,0 333 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 160,0 334 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 335
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 160,0 336 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 337
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 330,0 338 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 372,0 339 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 377,0 340 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1162,0 341 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 342 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 362,0 343 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 330,0 344 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 345
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 330,0 346 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 347
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 377,0 348 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 835,0 349 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 350 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1523,0 351 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 495,0 352 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1211,0 353 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 330,0 354 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1613,0 355 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1585,0 356 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 697,0 357 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1222,0 358 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 419,0 359 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 377,0 360 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 361
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 377,0 362 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 363
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 495,0 364 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2165,0 365 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1396,0 366 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1761,0 367 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1585,0 368 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 537,0 369 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1048,0 370 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1725,0 371 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 495,0 372 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 373
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 495,0 374 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 375
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1048,0 376 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 821,0 377 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 378 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1080,0 379 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 160,0 380 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2565,0 381 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 382 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1070,0 383 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1048,0 384 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 385
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1048,0 386 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 387
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1222,0 388 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1287,0 389 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 390 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1316,0 391 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1239,0 392 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1306,0 393 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 394 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1388,0 395 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1222,0 396 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 397
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1222,0 398 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 399
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1239,0 400 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1699,0 401 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1585,0 402 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1751,0 403 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 495,0 404 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1358,0 405 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1222,0 406 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1338,0 407 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 408 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1368,0 409 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 330,0 410 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1378,0 411 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1239,0 412 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 413
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1239,0 414 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 415
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1396,0 416 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1799,0 417 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 418 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1435,0 419 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1413,0 420 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1809,0 421 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 422 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1886,0 423 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1396,0 424 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 425
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1396,0 426 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 427
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1413,0 428 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1831,0 429 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 430 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1860,0 431 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 330,0 432 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1876,0 433 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1222,0 434 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 435
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1413,0 436 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 437
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1585,0 438 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1641,0 439 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1917,0 440 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1683,0 441 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1396,0 442 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2461,0 443 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1048,0 444 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1670,0 445 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1951,0 446 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1657,0 447 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1934,0 448 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1771,0 449 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 495,0 450 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1735,0 451 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1585,0 452 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 453
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1585,0 454 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 455
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1917,0 456 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 457 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1934,0 458 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 459 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1951,0 460 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 461 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2079,0 462 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 463 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2096,0 464 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 465 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2113,0 466 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 467 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2170,0 468 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1577,0 469 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2079,0 470 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2261,0 471 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2079,0 472 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 473
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2170,0 474 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 475
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2193,0 476 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1184,0 477 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 45,0 478 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 479
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2193,0 480 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 481
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2433,0 482 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1539,0 483 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2113,0 484 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 485
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2433,0 486 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 487
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2649,0 488 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 1558,0 489 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2096,0 490 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 491
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2649,0 492 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 493
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 95,0 494 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 496
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 2,0 497 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 498
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 32,0 501 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 503
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 32,0 505 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+GRAPHIC 24,0 514 0
+LIBRARY mil1553_tb
+DESIGN test_man_dec_fsm
+VIEW fsm2.sm
+NO_GRAPHIC 516
