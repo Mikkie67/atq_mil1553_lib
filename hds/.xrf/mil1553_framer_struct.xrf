@@ -1,0 +1,1715 @@
+DESIGN mil1553_framer
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 18,0 8 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 13,0 15 1 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1919,0 19 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 287,0 20 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 904,0 21 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 292,0 22 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 988,0 23 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 969,0 24 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 80,0 25 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 731,0 26 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 563,0 27 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 558,0 28 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 408,0 29 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 302,0 30 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1760,0 31 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 2453,0 32 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 156,0 33 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1866,0 34 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 2590,0 35 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 277,0 36 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 2002,0 37 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1246,0 38 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1236,0 39 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1241,0 40 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1231,0 41 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 326,0 42 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 2648,0 43 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 418,0 44 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 413,0 45 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 2643,0 46 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 348,0 47 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1025,0 48 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 282,0 49 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 297,0 50 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1178,0 51 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 238,0 52 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 85,0 53 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 338,0 54 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1693,0 55 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 343,0 56 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 333,0 57 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 674,0 58 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1470,0 59 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 2680,0 60 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1972,0 61 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1018,0 62 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1593,0 63 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 115,0 64 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 955,0 65 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 161,0 66 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1310,0 67 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1315,0 68 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1765,0 69 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 997,0 70 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 791,0 71 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 851,0 72 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 796,0 73 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 518,0 74 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 513,0 75 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 523,0 76 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 2506,0 77 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 151,0 78 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 2559,0 79 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1347,0 80 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1079,0 81 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 962,0 82 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 976,0 83 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 243,0 84 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 248,0 85 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1004,0 86 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 166,0 87 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1698,0 88 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1703,0 89 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 436,0 90 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 476,0 91 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 441,0 92 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 481,0 93 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 669,0 94 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 664,0 95 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1011,0 96 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1,0 99 0 
+DESIGN mil1553_framer
+VIEW symbol.sb
+GRAPHIC 1,0 100 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+NO_GRAPHIC 103
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 1291,0 111 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+NO_GRAPHIC 114
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 0,0 117 2 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2579,0 122 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3203,0 123 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2163,0 124 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2787,0 125 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2227,0 126 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2851,0 127 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2379,0 128 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3003,0 129 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2139,0 130 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2763,0 131 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2451,0 132 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3075,0 133 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2235,0 134 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2859,0 135 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2419,0 136 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3043,0 137 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2403,0 138 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3027,0 139 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2171,0 140 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2795,0 141 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2371,0 142 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2995,0 143 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2355,0 144 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2979,0 145 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2347,0 146 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2971,0 147 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2115,0 148 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2739,0 149 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2003,0 150 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2627,0 151 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2299,0 152 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2923,0 153 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2387,0 154 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3011,0 155 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2251,0 156 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2875,0 157 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2027,0 158 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2651,0 159 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2515,0 160 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3139,0 161 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2523,0 162 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3147,0 163 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2563,0 164 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3187,0 165 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2555,0 166 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3179,0 167 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2595,0 168 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3219,0 169 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2019,0 170 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2643,0 171 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2571,0 172 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3195,0 173 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2155,0 174 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2779,0 175 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2427,0 176 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3051,0 177 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2211,0 178 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2835,0 179 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2587,0 180 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3211,0 181 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2507,0 182 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3131,0 183 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2491,0 184 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3115,0 185 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2499,0 186 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3123,0 187 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2483,0 188 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3107,0 189 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2091,0 190 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2715,0 191 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2107,0 192 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2731,0 193 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2259,0 194 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2883,0 195 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2619,0 196 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3243,0 197 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2099,0 198 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2723,0 199 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2315,0 200 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2939,0 201 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2307,0 202 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2931,0 203 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2611,0 204 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3235,0 205 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2331,0 206 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2955,0 207 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2323,0 208 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2947,0 209 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2339,0 210 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2963,0 211 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2603,0 212 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3227,0 213 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2291,0 214 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2915,0 215 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2011,0 216 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2635,0 217 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2459,0 218 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3083,0 219 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2219,0 220 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2843,0 221 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2147,0 222 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2771,0 223 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2531,0 224 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3155,0 225 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2467,0 226 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3091,0 227 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2243,0 228 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2867,0 229 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2395,0 230 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3019,0 231 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2443,0 232 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3067,0 233 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2475,0 234 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3099,0 235 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2411,0 236 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3035,0 237 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2195,0 238 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2819,0 239 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2187,0 240 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2811,0 241 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2203,0 242 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2827,0 243 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2435,0 244 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3059,0 245 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2035,0 246 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2659,0 247 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2179,0 248 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2803,0 249 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2275,0 250 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2899,0 251 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2547,0 252 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3171,0 253 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2123,0 254 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2747,0 255 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2131,0 256 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2755,0 257 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2283,0 258 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2907,0 259 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2043,0 260 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2667,0 261 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2059,0 262 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2683,0 263 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2267,0 264 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2891,0 265 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2051,0 266 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2675,0 267 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2067,0 268 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2691,0 269 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2363,0 270 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2987,0 271 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2083,0 272 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2707,0 273 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2075,0 274 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2699,0 275 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2539,0 276 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3163,0 277 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+NO_GRAPHIC 278
+DESIGN mil1553_framer
+VIEW struct.bd
+NO_GRAPHIC 279
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm
+GRAPHIC 1993,0 281 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1919,0 283 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 287,0 284 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 904,0 285 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 292,0 286 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 988,0 287 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 969,0 288 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 80,0 289 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 731,0 290 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 563,0 291 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 558,0 292 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 408,0 293 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 302,0 294 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1760,0 295 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 2453,0 296 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 156,0 297 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1866,0 298 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 2590,0 299 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 277,0 300 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 2002,0 301 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1246,0 302 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1236,0 303 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1241,0 304 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1231,0 305 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 326,0 306 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 2648,0 307 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 418,0 308 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 413,0 309 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 2643,0 310 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 348,0 311 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1025,0 312 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 282,0 313 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 297,0 314 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1178,0 315 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 238,0 316 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 85,0 317 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 338,0 318 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1693,0 319 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 343,0 320 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 333,0 321 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 674,0 322 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1470,0 323 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 2680,0 324 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1972,0 325 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1018,0 326 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1593,0 327 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 115,0 328 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 955,0 329 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 161,0 330 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1310,0 331 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1315,0 332 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1765,0 333 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 997,0 334 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 791,0 335 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 851,0 336 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 796,0 337 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 518,0 338 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 513,0 339 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 523,0 340 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 2506,0 341 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 151,0 342 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 2559,0 343 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1347,0 344 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1079,0 345 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 962,0 346 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 976,0 347 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 243,0 348 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 248,0 349 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1004,0 350 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 166,0 351 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1698,0 352 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1703,0 353 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 436,0 354 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 476,0 355 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 441,0 356 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 481,0 357 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 669,0 358 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 664,0 359 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1011,0 360 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 1671,0 363 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1919,0 365 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 287,0 366 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 904,0 367 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 292,0 368 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 988,0 369 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 969,0 370 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 80,0 371 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 731,0 372 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 563,0 373 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 558,0 374 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 408,0 375 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 302,0 376 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1760,0 377 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 2453,0 378 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 156,0 379 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1866,0 380 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 2590,0 381 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 277,0 382 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 2002,0 383 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1246,0 384 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1236,0 385 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1241,0 386 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1231,0 387 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 326,0 388 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 2648,0 389 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 418,0 390 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 413,0 391 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 2643,0 392 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 348,0 393 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1025,0 394 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 282,0 395 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 297,0 396 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1178,0 397 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 238,0 398 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 85,0 399 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 338,0 400 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1693,0 401 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 343,0 402 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 333,0 403 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 674,0 404 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1470,0 405 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 2680,0 406 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1972,0 407 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1018,0 408 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1593,0 409 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 115,0 410 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 955,0 411 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 161,0 412 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1310,0 413 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1315,0 414 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1765,0 415 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 997,0 416 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 791,0 417 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 851,0 418 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 796,0 419 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 518,0 420 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 513,0 421 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 523,0 422 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 2506,0 423 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 151,0 424 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 2559,0 425 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1347,0 426 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1079,0 427 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 962,0 428 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 976,0 429 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 243,0 430 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 248,0 431 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1004,0 432 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 166,0 433 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1698,0 434 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1703,0 435 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 436,0 436 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 476,0 437 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 441,0 438 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 481,0 439 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 669,0 440 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 664,0 441 0 
+DESIGN mil1553_framer_rt
+VIEW symbol.sb
+GRAPHIC 1011,0 442 0 
+LIBRARY mil1553_lib
+DESIGN mil1553_framer
+VIEW struct.bd
+NO_GRAPHIC 445
+DESIGN mil1553_framer
+VIEW struct.bd
+NO_GRAPHIC 446
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3583,0 449 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+NO_GRAPHIC 579
+DESIGN mil1553_framer
+VIEW struct.bd
+NO_GRAPHIC 580
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3563,0 583 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 1993,0 586 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 1993,0 590 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3205,0 592 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2853,0 593 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3005,0 594 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2861,0 595 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3045,0 596 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3029,0 597 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2797,0 598 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2997,0 599 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2981,0 600 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2973,0 601 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2925,0 602 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2877,0 603 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3181,0 604 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3221,0 605 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2645,0 606 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3197,0 607 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2781,0 608 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2837,0 609 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3213,0 610 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3133,0 611 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3117,0 612 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3125,0 613 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3109,0 614 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2885,0 615 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3245,0 616 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2941,0 617 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2933,0 618 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3237,0 619 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2917,0 620 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3085,0 621 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2845,0 622 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2869,0 623 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3101,0 624 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2813,0 625 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2805,0 626 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2901,0 627 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3173,0 628 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2909,0 629 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2893,0 630 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2989,0 631 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3165,0 632 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2789,0 633 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2765,0 634 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3077,0 635 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2741,0 636 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2629,0 637 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3013,0 638 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2653,0 639 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3141,0 640 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3149,0 641 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3189,0 642 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3053,0 643 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2717,0 644 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2733,0 645 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2725,0 646 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2957,0 647 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2949,0 648 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2965,0 649 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3229,0 650 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2637,0 651 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2773,0 652 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3157,0 653 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3093,0 654 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3021,0 655 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3037,0 656 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2821,0 657 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2829,0 658 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3061,0 659 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2661,0 660 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2749,0 661 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2757,0 662 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2669,0 663 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2685,0 664 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2677,0 665 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2693,0 666 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2709,0 667 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2701,0 668 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3069,0 669 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 3573,0 674 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 1671,0 677 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 1671,0 681 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2581,0 683 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2229,0 684 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2381,0 685 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2237,0 686 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2421,0 687 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2405,0 688 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2173,0 689 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2373,0 690 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2357,0 691 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2349,0 692 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2301,0 693 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2253,0 694 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2557,0 695 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2597,0 696 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2021,0 697 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2573,0 698 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2157,0 699 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2213,0 700 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2589,0 701 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2509,0 702 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2493,0 703 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2501,0 704 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2485,0 705 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2261,0 706 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2621,0 707 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2317,0 708 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2309,0 709 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2613,0 710 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2293,0 711 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2461,0 712 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2221,0 713 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2245,0 714 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2477,0 715 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2189,0 716 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2181,0 717 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2277,0 718 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2549,0 719 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2285,0 720 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2269,0 721 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2365,0 722 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2541,0 723 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2165,0 724 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2141,0 725 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2453,0 726 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2117,0 727 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2005,0 728 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2389,0 729 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2029,0 730 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2517,0 731 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2525,0 732 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2565,0 733 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2429,0 734 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2093,0 735 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2109,0 736 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2101,0 737 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2333,0 738 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2325,0 739 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2341,0 740 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2605,0 741 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2013,0 742 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2149,0 743 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2533,0 744 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2469,0 745 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2397,0 746 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2413,0 747 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2197,0 748 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2205,0 749 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2437,0 750 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2037,0 751 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2125,0 752 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2133,0 753 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2045,0 754 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2061,0 755 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2053,0 756 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2069,0 757 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2085,0 758 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2077,0 759 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+GRAPHIC 2445,0 760 0 
+DESIGN mil1553_framer
+VIEW struct.bd
+NO_GRAPHIC 765

@@ -1,0 +1,682 @@
+DESIGN manchester_encoder
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 18,0 8 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 13,0 13 1 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 80,0 18 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 299,0 19 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 125,0 20 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 329,0 21 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 130,0 22 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 85,0 23 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 551,0 24 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 567,0 25 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 562,0 26 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 200,0 27 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 595,0 28 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 145,0 29 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 140,0 30 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 135,0 31 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 438,0 32 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 428,0 33 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 625,0 34 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 1,0 37 0 
+DESIGN manchester_encoder
+VIEW symbol.sb
+GRAPHIC 1,0 38 0 
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 33,0 50 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 53
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 6,0 57 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 68
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 2,0 100 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 101
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 2,0 104 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 12,0 105 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 106
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 146,0 107 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 109
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 62,0 124 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 125
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 32,0 127 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 132
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 2,0 134 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 45,0 135 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 252,0 136 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 253,0 137 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 170
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 179,0 171 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 262,0 172 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 263,0 173 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 177
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 317,0 178 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 179
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 196,0 180 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 272,0 181 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 273,0 182 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 191
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 327,0 192 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 193
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 213,0 194 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 302,0 195 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 303,0 196 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 292,0 222 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 293,0 223 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 227
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 347,0 228 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 229
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 230,0 230 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 377,0 231 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 378,0 232 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 242
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 337,0 243 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 244
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 355,0 245 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 424,0 246 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 425,0 247 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 397,0 251 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 398,0 252 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 261
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 388,0 262 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 263
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 402,0 264 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 282,0 265 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 283,0 266 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 279
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 437,0 280 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 281
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 441,0 282 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 480,0 283 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 481,0 284 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 288
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 511,0 289 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 290
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 458,0 291 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 490,0 292 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 491,0 293 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 301
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 501,0 302 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 303
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 1031,0 304 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 1053,0 305 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 1054,0 306 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 309
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 2,0 312 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 313
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 2,0 314 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 315
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 2,0 317 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 318
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 2,0 326 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 45,0 327 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 252,0 328 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 179,0 329 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 330
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 45,0 331 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 332
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 179,0 333 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 262,0 334 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 196,0 335 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 336
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 179,0 337 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 338
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 196,0 339 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 272,0 340 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 230,0 341 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 342
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 196,0 343 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 344
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 213,0 345 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 302,0 346 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 179,0 347 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 292,0 348 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 1031,0 349 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 350
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 213,0 351 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 352
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 230,0 353 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 377,0 354 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 355,0 355 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 356
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 230,0 357 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 358
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 355,0 359 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 424,0 360 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 441,0 361 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 397,0 362 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 230,0 363 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 364
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 355,0 365 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 366
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 402,0 367 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 282,0 368 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 213,0 369 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 370
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 402,0 371 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 372
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 441,0 373 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 480,0 374 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 458,0 375 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 376
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 441,0 377 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 378
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 458,0 379 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 490,0 380 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 402,0 381 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 382
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 458,0 383 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 384
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 1031,0 385 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 1053,0 386 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 45,0 387 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 388
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 1031,0 389 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 390
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 95,0 391 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 393
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 2,0 394 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 395
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 32,0 397 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+GRAPHIC 24,0 407 0
+LIBRARY mil1553_lib
+DESIGN manchester_encoder
+VIEW fsm.sm
+NO_GRAPHIC 412

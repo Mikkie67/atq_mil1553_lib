@@ -1,0 +1,21 @@
+set_global_assignment -name VHDL_FILE ../../../mil1553_lib/hdl/mil1553_pkg.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../mil1553_lib/hdl/mil1553_pkg_body.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../mil1553_lib/hdl/man_dec_fsm_fsm.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../at_gen_lib/hdl/synchroniser_rtl.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../mil1553_lib/hdl/manchester_decoder_struct.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../mil1553_lib/hdl/manchester_encoder_fsm.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../mil1553_lib/hdl/mil1553_framer_bc_fsm.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../mil1553_lib/hdl/mil1553_framer_rt_fsm.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../mil1553_lib/hdl/mil1553_framer_struct.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../at_gen_lib/hdl/edge_detect_arc.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../at_gen_lib/hdl/timer_rtl.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../mil1553_lib/hdl/mill1553_timers_struct.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../mil1553_lib/hdl/mil1553_singlebus_struct.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../mil1553_lib/hdl/cpu_registers_rtl.vhd -library mil1553_lib
+set_global_assignment -name QIP_FILE  ../../../mil1553_lib/altera_ip/ram_dp_1kx17/ram_dp_1kx17.qip -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../at_gen_lib/hdl/timer_double_struct.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../mil1553_lib/hdl/repeat_timer_struct.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../mil1553_lib/hdl/mil1553_cpu_interface_struct.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../mil1553_lib/hdl/select_active_bus_fsm.vhd -library mil1553_lib
+set_global_assignment -name VHDL_FILE ../../../mil1553_lib/hdl/mill1553_dualbus_struct.vhd -library mil1553_lib
+

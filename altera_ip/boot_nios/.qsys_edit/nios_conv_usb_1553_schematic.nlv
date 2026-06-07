@@ -1,0 +1,39 @@
+# # File gsaved with Nlview version 6.3.8  2013-12-19 bk=1.2992 VDI=34 GEI=35
+# 
+preplace inst nios_conv_usb_1553.clk_100M -pg 1 -lvl 1 -y 130
+preplace inst nios_conv_usb_1553.NIOS2_GEN2.cpu -pg 1
+preplace inst nios_conv_usb_1553.Input_Signals -pg 1 -lvl 3 -y 310
+preplace inst nios_conv_usb_1553.dualboot_clk -pg 1 -lvl 1 -y 50
+preplace inst nios_conv_usb_1553.ONCHIP_RAM_32k -pg 1 -lvl 3 -y 870
+preplace inst nios_conv_usb_1553.NIOS2_GEN2.reset_bridge -pg 1
+preplace inst nios_conv_usb_1553.NIOS2_GEN2.clock_bridge -pg 1
+preplace inst nios_conv_usb_1553.NIOS2_GEN2 -pg 1 -lvl 2 -y 200
+preplace inst nios_conv_usb_1553.Irq -pg 1 -lvl 3 -y 110
+preplace inst nios_conv_usb_1553.JTagUart -pg 1 -lvl 3 -y 510
+preplace inst nios_conv_usb_1553.Registers -pg 1 -lvl 3 -y 430
+preplace inst nios_conv_usb_1553.Output_Signals -pg 1 -lvl 3 -y 1120
+preplace inst nios_conv_usb_1553.Mil1553 -pg 1 -lvl 3 -y 230
+preplace inst nios_conv_usb_1553 -pg 1 -lvl 1 -y 40 -regy -20
+preplace inst nios_conv_usb_1553.Uart1 -pg 1 -lvl 3 -y 610
+preplace inst nios_conv_usb_1553.Uart2 -pg 1 -lvl 3 -y 690
+preplace inst nios_conv_usb_1553.dual_boot -pg 1 -lvl 3 -y 30
+preplace inst nios_conv_usb_1553.MAX10_FLASH -pg 1 -lvl 3 -y 770
+preplace netloc EXPORT<net_container>nios_conv_usb_1553</net_container>(SLAVE)dualboot_clk.clk_in_reset,(SLAVE)nios_conv_usb_1553.reset_50) 1 0 1 NJ
+preplace netloc EXPORT<net_container>nios_conv_usb_1553</net_container>(MASTER)nios_conv_usb_1553.mil1553,(MASTER)Mil1553.m0) 1 3 1 NJ
+preplace netloc EXPORT<net_container>nios_conv_usb_1553</net_container>(MASTER)nios_conv_usb_1553.uart1,(MASTER)Uart1.m0) 1 3 1 NJ
+preplace netloc INTERCONNECT<net_container>nios_conv_usb_1553</net_container>(SLAVE)Input_Signals.s1,(SLAVE)Irq.s1,(SLAVE)MAX10_FLASH.data,(SLAVE)Uart2.s0,(SLAVE)NIOS2_GEN2.debug_mem_slave,(MASTER)NIOS2_GEN2.data_master,(SLAVE)JTagUart.avalon_jtag_slave,(SLAVE)Registers.s0,(SLAVE)Uart1.s0,(SLAVE)ONCHIP_RAM_32k.s1,(SLAVE)MAX10_FLASH.csr,(SLAVE)Mil1553.s0,(SLAVE)Output_Signals.s1,(SLAVE)dual_boot.avalon,(MASTER)NIOS2_GEN2.instruction_master) 1 1 2 360 380 760
+preplace netloc POINT_TO_POINT<net_container>nios_conv_usb_1553</net_container>(MASTER)dualboot_clk.clk_reset,(SLAVE)dual_boot.nreset) 1 1 2 NJ 80 N
+preplace netloc POINT_TO_POINT<net_container>nios_conv_usb_1553</net_container>(SLAVE)dual_boot.clk,(MASTER)dualboot_clk.clk) 1 1 2 NJ 60 N
+preplace netloc INTERCONNECT<net_container>nios_conv_usb_1553</net_container>(SLAVE)Output_Signals.reset,(SLAVE)Mil1553.reset,(SLAVE)NIOS2_GEN2.reset,(SLAVE)Uart2.reset,(MASTER)NIOS2_GEN2.debug_reset_request,(SLAVE)Registers.reset,(SLAVE)MAX10_FLASH.nreset,(SLAVE)ONCHIP_RAM_32k.reset1,(SLAVE)Uart1.reset,(SLAVE)JTagUart.reset,(MASTER)clk_100M.clk_reset,(SLAVE)Irq.reset,(SLAVE)Input_Signals.reset) 1 1 2 320 360 780
+preplace netloc EXPORT<net_container>nios_conv_usb_1553</net_container>(SLAVE)nios_conv_usb_1553.irq,(SLAVE)Irq.external_connection) 1 0 3 NJ 120 NJ 140 NJ
+preplace netloc EXPORT<net_container>nios_conv_usb_1553</net_container>(MASTER)Registers.m0,(MASTER)nios_conv_usb_1553.conv_registers) 1 3 1 NJ
+preplace netloc EXPORT<net_container>nios_conv_usb_1553</net_container>(SLAVE)clk_100M.clk_in_reset,(SLAVE)nios_conv_usb_1553.reset) 1 0 1 NJ
+preplace netloc EXPORT<net_container>nios_conv_usb_1553</net_container>(SLAVE)nios_conv_usb_1553.clk_50,(SLAVE)dualboot_clk.clk_in) 1 0 1 NJ
+preplace netloc FAN_OUT<net_container>nios_conv_usb_1553</net_container>(SLAVE)Input_Signals.clk,(SLAVE)Uart1.clk,(SLAVE)MAX10_FLASH.clk,(SLAVE)Uart2.clk,(SLAVE)Output_Signals.clk,(SLAVE)Mil1553.clk,(SLAVE)ONCHIP_RAM_32k.clk1,(SLAVE)Registers.clk,(SLAVE)Irq.clk,(MASTER)clk_100M.clk,(SLAVE)NIOS2_GEN2.clk,(SLAVE)JTagUart.clk) 1 1 2 340 340 800
+preplace netloc EXPORT<net_container>nios_conv_usb_1553</net_container>(SLAVE)nios_conv_usb_1553.discrete_outputs,(SLAVE)Output_Signals.external_connection) 1 0 3 NJ 1150 NJ 1150 NJ
+preplace netloc FAN_OUT<net_container>nios_conv_usb_1553</net_container>(SLAVE)Input_Signals.irq,(SLAVE)Irq.irq,(MASTER)NIOS2_GEN2.irq,(SLAVE)JTagUart.irq) 1 2 1 740
+preplace netloc EXPORT<net_container>nios_conv_usb_1553</net_container>(MASTER)nios_conv_usb_1553.uart2,(MASTER)Uart2.m0) 1 3 1 NJ
+preplace netloc EXPORT<net_container>nios_conv_usb_1553</net_container>(SLAVE)nios_conv_usb_1553.discrete_inputs,(SLAVE)Input_Signals.external_connection) 1 0 3 NJ 400 NJ 400 NJ
+preplace netloc EXPORT<net_container>nios_conv_usb_1553</net_container>(SLAVE)nios_conv_usb_1553.clk,(SLAVE)clk_100M.clk_in) 1 0 1 NJ
+levelinfo -pg 1 0 110 1130
+levelinfo -hier nios_conv_usb_1553 120 150 500 860 1010

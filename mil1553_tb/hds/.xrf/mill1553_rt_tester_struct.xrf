@@ -1,0 +1,315 @@
+DESIGN mill1553_@r@t_tester
+VIEW interface
+NO_GRAPHIC 0
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 18,0 8 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 848,0 14 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 853,0 15 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 868,0 16 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 883,0 17 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 888,0 18 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 893,0 19 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 908,0 20 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 903,0 21 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 913,0 22 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 918,0 23 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 828,0 24 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 838,0 25 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 843,0 26 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 858,0 27 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 863,0 28 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 898,0 29 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 923,0 30 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 873,0 31 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 833,0 32 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 878,0 33 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 1,0 36 0 
+DESIGN mill1553_@r@t_tester
+VIEW interface
+GRAPHIC 1,0 37 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+NO_GRAPHIC 40
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 281,0 49 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+NO_GRAPHIC 52
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 0,0 56 2 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 725,0 61 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 735,0 62 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 671,0 63 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 665,0 64 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 693,0 65 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 653,0 66 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 659,0 67 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+NO_GRAPHIC 68
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+NO_GRAPHIC 69
+LIBRARY barij_lib
+DESIGN clock_source
+VIEW behaviour
+GRAPHIC 427,0 71 0 
+DESIGN clock_source
+VIEW symbol.sb
+GRAPHIC 14,0 72 1 
+DESIGN clock_source
+VIEW behaviour
+GRAPHIC 48,0 80 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 643,0 83 0 
+DESIGN cpu_commands
+VIEW symbol.sb
+GRAPHIC 14,0 84 1 
+DESIGN cpu_commands
+VIEW beh
+GRAPHIC 61,0 89 0 
+DESIGN cpu_commands
+VIEW beh
+GRAPHIC 51,0 90 0 
+DESIGN cpu_commands
+VIEW beh
+GRAPHIC 56,0 91 0 
+DESIGN cpu_commands
+VIEW beh
+GRAPHIC 66,0 92 0 
+DESIGN cpu_commands
+VIEW beh
+GRAPHIC 71,0 93 0 
+DESIGN cpu_commands
+VIEW beh
+GRAPHIC 338,0 94 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 441,0 97 0 
+DESIGN power_on_reset
+VIEW symbol.sb
+GRAPHIC 14,0 98 1 
+DESIGN power_on_reset
+VIEW rtl
+GRAPHIC 48,0 102 0 
+DESIGN power_on_reset
+VIEW rtl
+GRAPHIC 53,0 103 0 
+LIBRARY mil1553_tb
+DESIGN mill1553_@r@t_tester
+VIEW struct
+GRAPHIC 1414,0 106 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+NO_GRAPHIC 128
+LIBRARY mil1553_tb
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+NO_GRAPHIC 130
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 427,0 133 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 643,0 134 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 1414,0 135 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 441,0 136 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+NO_GRAPHIC 139
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 493,0 142 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+NO_GRAPHIC 147
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+NO_GRAPHIC 148
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 427,0 150 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 434,0 151 1 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 29,0 159 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 643,0 161 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 650,0 162 1 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 695,0 167 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 673,0 168 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 667,0 169 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 655,0 170 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 661,0 171 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 709,0 172 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 609,0 174 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 616,0 175 1 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 71,0 180 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 15,0 181 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 57,0 182 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 211,0 183 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 239,0 184 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 533,0 185 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 441,0 187 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 448,0 188 1 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 511,0 192 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 155,0 193 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 1414,0 195 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 673,0 197 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 719,0 198 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 667,0 199 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 183,0 200 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 197,0 201 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 729,0 202 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 655,0 203 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 1426,0 204 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 1442,0 205 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 1434,0 206 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 661,0 207 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 543,0 208 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 677,0 209 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 701,0 210 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 99,0 214 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+GRAPHIC 113,0 215 0 
+DESIGN mill1553_@r@t_tester
+VIEW struct.bd
+NO_GRAPHIC 219

@@ -1,0 +1,2586 @@
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 18,0 8 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1919,0 14 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 287,0 15 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 904,0 16 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 292,0 17 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 988,0 18 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 969,0 19 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 80,0 20 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 731,0 21 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 563,0 22 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 558,0 23 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 408,0 24 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 302,0 25 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1760,0 26 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 2453,0 27 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 156,0 28 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1866,0 29 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 2590,0 30 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 277,0 31 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 2002,0 32 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1246,0 33 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1236,0 34 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1241,0 35 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1231,0 36 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 326,0 37 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 2648,0 38 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 418,0 39 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 413,0 40 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 2643,0 41 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 348,0 42 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1025,0 43 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 282,0 44 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 297,0 45 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1178,0 46 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 238,0 47 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 85,0 48 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 338,0 49 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1693,0 50 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 343,0 51 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 333,0 52 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 674,0 53 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1470,0 54 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 2680,0 55 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1972,0 56 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1018,0 57 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1593,0 58 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 115,0 59 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 955,0 60 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 161,0 61 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1310,0 62 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1315,0 63 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1765,0 64 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 997,0 65 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 791,0 66 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 851,0 67 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 796,0 68 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 518,0 69 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 513,0 70 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 523,0 71 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 2506,0 72 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 151,0 73 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 2559,0 74 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1347,0 75 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1079,0 76 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 962,0 77 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 976,0 78 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 243,0 79 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 248,0 80 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1004,0 81 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 166,0 82 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1698,0 83 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1703,0 84 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 436,0 85 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 476,0 86 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 441,0 87 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 481,0 88 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 669,0 89 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 664,0 90 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1011,0 91 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1,0 94 0 
+DESIGN mil1553_framer_bc
+VIEW symbol.sb
+GRAPHIC 1,0 95 0 
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 33,0 107 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 110
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6,0 114 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 199
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2,0 289 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 290
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2,0 293 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 294
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 72,0 295 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 297
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 62,0 358 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 359
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 32,0 361 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 374
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 18,0 375 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 381
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6679,0 382 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 3637,0 384 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7109,0 391 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7120,0 392 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7229,0 400 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7240,0 401 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 414
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2,0 417 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 45,0 418 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 380,0 419 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 381,0 420 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6327,0 428 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6438,0 429 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2278,0 437 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 416,0 438 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1873,0 441 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 443,0 442 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2102,0 449 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 470,0 450 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1421,0 462 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 325,0 463 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 504,0 472 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 354,0 473 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 481
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 358,0 482 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4659,0 483 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4660,0 484 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 490
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 898,0 491 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 913,0 492 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 984,0 493 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 985,0 494 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1268,0 506 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1269,0 507 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6038,0 515 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6039,0 516 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 523
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 3783,0 524 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 525
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1246,0 526 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 920,0 527 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 921,0 528 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 539
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1281,0 540 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 541
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 542 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1207,0 543 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1208,0 544 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1323,0 551 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1324,0 552 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 558
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2841,0 559 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2881,0 560 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 478,0 572 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 957,0 573 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 958,0 574 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 583
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 527,0 584 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1340,0 585 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 544,0 593 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 620,0 594 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 621,0 595 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4212,0 599 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4213,0 600 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 602
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 598,0 603 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1296,0 604 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 515,0 605 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1297,0 612 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4222,0 617 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4223,0 618 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 630,0 620 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 631,0 621 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 625
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 935,0 626 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 8130,0 627 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 8131,0 628 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 593,0 632 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 594,0 633 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 583,0 640 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 584,0 641 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1188,0 646 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1189,0 647 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 650
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1450,0 651 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7947,0 652 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7948,0 653 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1566,0 661 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1567,0 662 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 668
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1467,0 669 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1445,0 670 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2837,0 671 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1446,0 675 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1546,0 680 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1547,0 681 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1606,0 688 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1607,0 689 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 693
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1484,0 694 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 8091,0 695 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 8092,0 696 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1586,0 700 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1587,0 701 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4385,0 708 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4386,0 709 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1445,0 714 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1557,0 715 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1446,0 725 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1750,0 730 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1751,0 731 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 735
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1501,0 736 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1597,0 737 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 3876,0 745 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4376,0 746 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1763,0 752 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1943,0 753 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1944,0 754 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7579,0 761 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7580,0 762 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 769
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1784,0 770 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1964,0 771 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1801,0 779 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2006,0 780 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1914,0 781 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2007,0 788 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4565,0 793 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4566,0 794 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 796
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1845,0 797 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1903,0 798 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1904,0 799 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1893,0 803 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1894,0 804 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1953,0 806 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1954,0 807 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 810
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2023,0 811 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2132,0 812 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2133,0 813 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7437,0 817 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7438,0 818 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 821
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2040,0 822 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2182,0 823 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2901,0 825 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2183,0 829 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7371,0 834 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7372,0 836 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7361,0 839 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7362,0 840 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 844
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2057,0 845 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2142,0 846 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2143,0 847 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4545,0 851 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4546,0 852 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2182,0 854 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2123,0 855 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2183,0 862 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2172,0 867 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2173,0 868 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 872
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2074,0 873 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2153,0 874 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4523,0 880 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4556,0 881 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2199,0 887 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2377,0 888 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2891,0 889 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2378,0 893 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2288,0 898 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2289,0 899 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7496,0 904 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7497,0 905 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 912
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2233,0 913 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2318,0 914 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2319,0 915 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4686,0 919 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4687,0 920 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2377,0 922 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2299,0 923 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2378,0 931 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2338,0 936 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2339,0 937 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 940
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2250,0 941 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2329,0 942 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4664,0 950 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4697,0 951 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6224,0 959 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6367,0 960 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6368,0 961 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 966
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6241,0 967 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6337,0 968 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6338,0 969 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6397,0 973 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6398,0 974 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6417,0 976 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6418,0 977 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 980
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6258,0 981 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6348,0 982 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6275,0 990 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6377,0 991 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6378,0 992 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6407,0 998 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6408,0 999 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1001
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6298,0 1002 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6500,0 1003 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6501,0 1004 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6427,0 1009 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6428,0 1010 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6387,0 1014 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6388,0 1015 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1017
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6458,0 1018 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6565,0 1019 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6566,0 1020 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6453,0 1029 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6358,0 1030 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6454,0 1037 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6490,0 1042 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6491,0 1043 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6510,0 1045 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6511,0 1046 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1048
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7464,0 1049 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7486,0 1050 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7487,0 1051 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1056
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7534,0 1057 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7569,0 1058 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7570,0 1059 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1064
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7881,0 1065 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7920,0 1066 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7921,0 1067 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1075
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7925,0 1076 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7957,0 1077 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7958,0 1078 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1084
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 8021,0 1085 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 8016,0 1086 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 8017,0 1087 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1090
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2,0 1093 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1094
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2,0 1096 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1097
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2,0 1099 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1100
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6679,0 1132 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7109,0 1135 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7229,0 1137 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1139
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2,0 1140 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 45,0 1141 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 380,0 1142 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 358,0 1143 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6327,0 1144 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6224,0 1145 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2278,0 1146 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2199,0 1147 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1873,0 1148 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1763,0 1149 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2102,0 1150 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2023,0 1151 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1421,0 1152 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1450,0 1153 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 504,0 1154 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 478,0 1155 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1156
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 45,0 1157 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1158
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 358,0 1159 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4659,0 1160 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1246,0 1161 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1162
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 358,0 1163 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1164
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 898,0 1165 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 984,0 1166 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2733,0 1167 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1268,0 1168 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1246,0 1169 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6038,0 1170 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6115,0 1171 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1172
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 898,0 1173 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1174
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1246,0 1175 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 920,0 1176 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2841,0 1177 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1178
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1246,0 1179 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1180
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1181 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1207,0 1182 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 898,0 1183 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1323,0 1184 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1246,0 1185 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1186
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1187 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1188
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2733,0 1189 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2841,0 1191 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 45,0 1192 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6115,0 1193 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 898,0 1194 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 478,0 1195 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 957,0 1196 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 935,0 1197 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1198
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 478,0 1199 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1200
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 527,0 1201 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1202 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 544,0 1203 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 620,0 1204 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 598,0 1205 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4212,0 1206 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 527,0 1207 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1208
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 544,0 1209 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1210
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 598,0 1211 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1296,0 1212 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1213 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4222,0 1214 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 527,0 1215 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 630,0 1216 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 598,0 1217 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1218
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 598,0 1219 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1220
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 935,0 1221 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 8130,0 1222 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 935,0 1223 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 593,0 1224 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 544,0 1225 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 583,0 1226 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 527,0 1227 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1188,0 1228 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 935,0 1229 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1230
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 935,0 1231 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1232
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1450,0 1233 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7947,0 1234 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7925,0 1235 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1566,0 1236 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1467,0 1237 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1238
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1450,0 1239 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1240
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1467,0 1241 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1445,0 1242 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1243 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1546,0 1244 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1484,0 1245 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1606,0 1246 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1467,0 1247 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1248
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1467,0 1249 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1250
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1484,0 1251 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 8091,0 1252 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1484,0 1253 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1586,0 1254 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1501,0 1255 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4385,0 1256 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 3876,0 1257 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1445,0 1258 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1259 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1750,0 1260 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1484,0 1261 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1262
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1484,0 1263 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1264
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1501,0 1265 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1266 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 3876,0 1267 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1268 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1763,0 1269 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1943,0 1270 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1845,0 1271 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7579,0 1272 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7534,0 1273 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1274
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1763,0 1275 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1276
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1784,0 1277 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1278 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1801,0 1279 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2006,0 1280 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1281 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4565,0 1282 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1784,0 1283 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1284
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1801,0 1285 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1286
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1845,0 1287 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1903,0 1288 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1801,0 1289 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1893,0 1290 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1784,0 1291 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1953,0 1292 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1845,0 1293 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1294
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1845,0 1295 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1296
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2023,0 1297 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2132,0 1298 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2040,0 1299 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7437,0 1300 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2057,0 1301 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1302
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2023,0 1303 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1304
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2040,0 1305 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2182,0 1306 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1308 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7371,0 1309 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2057,0 1311 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7361,0 1312 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2040,0 1313 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1314
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2040,0 1315 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1316
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2057,0 1317 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2142,0 1318 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2074,0 1319 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4545,0 1320 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4523,0 1321 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2182,0 1322 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1323 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2172,0 1324 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2057,0 1325 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1326
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2057,0 1327 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1328
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2074,0 1329 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1330 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4523,0 1331 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1332 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2199,0 1333 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2377,0 1334 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1335 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2288,0 1336 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2233,0 1337 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7496,0 1338 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7464,0 1339 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1340
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2199,0 1341 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1342
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2233,0 1343 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2318,0 1344 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2250,0 1345 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4686,0 1346 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4664,0 1347 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2377,0 1348 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1349 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2338,0 1350 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2233,0 1351 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1352
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2233,0 1353 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1354
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2250,0 1355 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1356 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 4664,0 1357 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1358 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6224,0 1359 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6367,0 1360 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6241,0 1361 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1362
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6224,0 1363 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1364
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6241,0 1365 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6337,0 1366 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6275,0 1367 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6397,0 1368 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6258,0 1369 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6417,0 1370 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6241,0 1371 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1372
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6241,0 1373 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1374
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6258,0 1375 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1376 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6275,0 1377 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6377,0 1378 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6298,0 1379 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6407,0 1380 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6258,0 1381 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1382
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6275,0 1383 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1384
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6298,0 1385 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6500,0 1386 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6458,0 1387 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6427,0 1388 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6298,0 1389 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6387,0 1390 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6258,0 1391 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1392
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6298,0 1393 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1394
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6458,0 1395 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6565,0 1396 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1397 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6453,0 1398 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1301,0 1399 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6490,0 1400 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6258,0 1401 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6510,0 1402 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6458,0 1403 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1404
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6458,0 1405 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1406
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7464,0 1407 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7486,0 1408 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2233,0 1409 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1410
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7464,0 1411 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1412
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7534,0 1413 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7569,0 1414 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1845,0 1415 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1416
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7534,0 1417 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1418
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7881,0 1419 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7920,0 1420 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1246,0 1421 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1422
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7881,0 1423 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1424
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7925,0 1425 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 7967,0 1426 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1484,0 1427 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1428
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 1467,0 1429 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1430
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 8021,0 1431 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 8016,0 1432 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 898,0 1433 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1434
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 8021,0 1435 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1436
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 8167,0 1437 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 6604,0 1438 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 898,0 1441 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1442
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 8167,0 1443 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1444
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 95,0 1445 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1447
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 2,0 1449 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1450
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 32,0 1452 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+GRAPHIC 24,0 1487 0
+LIBRARY mil1553_lib
+DESIGN mil1553_framer_bc
+VIEW fsm.sm
+NO_GRAPHIC 1496

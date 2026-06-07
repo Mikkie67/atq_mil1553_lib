@@ -1,0 +1,14 @@
+*._*
+*.bin
+*.bak*
+*.lck
+~*
+work/*
+work/*/
+work/*/*
+!work/*.do
+!work/*.ini
+!work/*.txt
+!work/*.hex
+.cache.dat
+documents\All_TestsCases.xlsx

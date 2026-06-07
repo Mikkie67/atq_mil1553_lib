@@ -1,0 +1,312 @@
+DESIGN manchester_decoder
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 18,0 8 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 13,0 13 1 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 938,0 19 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 102,0 20 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 424,0 21 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 419,0 22 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 613,0 23 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 97,0 24 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 92,0 25 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 107,0 26 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 456,0 27 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 345,0 28 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 841,0 29 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 622,0 30 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 287,0 31 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 122,0 32 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 117,0 33 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 836,0 34 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 652,0 35 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 1,0 38 0 
+DESIGN manchester_decoder
+VIEW symbol.sb
+GRAPHIC 1,0 39 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+NO_GRAPHIC 42
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 137,0 50 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+NO_GRAPHIC 53
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 0,0 57 2 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 445,0 62 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 403,0 63 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 1435,0 64 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 1445,0 65 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 1699,0 66 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 3122,0 67 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 291,0 68 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 289,0 69 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 119,0 70 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 705,0 71 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+NO_GRAPHIC 72
+DESIGN manchester_decoder
+VIEW struct.bd
+NO_GRAPHIC 73
+LIBRARY at_gen_lib
+DESIGN synchroniser
+VIEW rtl
+GRAPHIC 2126,0 75 0 
+DESIGN synchroniser
+VIEW rtl
+GRAPHIC 51,0 77 0 
+DESIGN synchroniser
+VIEW rtl
+GRAPHIC 56,0 78 0 
+DESIGN synchroniser
+VIEW rtl
+GRAPHIC 61,0 79 0 
+DESIGN synchroniser
+VIEW rtl
+GRAPHIC 66,0 80 0 
+LIBRARY mil1553_lib
+DESIGN man_dec_fsm
+VIEW fsm
+GRAPHIC 3005,0 83 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 14,0 84 1 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 597,0 90 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 1261,0 91 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 607,0 92 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 627,0 93 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 632,0 94 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 637,0 95 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 642,0 96 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 617,0 97 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 1026,0 98 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 950,0 99 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 1344,0 100 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 1291,0 101 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 799,0 102 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 612,0 103 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 622,0 104 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 1155,0 105 0 
+DESIGN man_dec_fsm
+VIEW symbol.sb
+GRAPHIC 1160,0 106 0 
+LIBRARY mil1553_lib
+DESIGN manchester_decoder
+VIEW struct.bd
+NO_GRAPHIC 109
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 3005,0 112 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 2126,0 113 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+NO_GRAPHIC 116
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 473,0 119 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+NO_GRAPHIC 123
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 1415,0 124 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+NO_GRAPHIC 149
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 3116,0 150 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+NO_GRAPHIC 153
+DESIGN manchester_decoder
+VIEW struct.bd
+NO_GRAPHIC 154
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 2126,0 156 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 29,0 158 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 257,0 159 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 265,0 160 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 283,0 161 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 2100,0 163 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 43,0 165 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 15,0 166 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 85,0 167 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 3124,0 168 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 3005,0 170 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 3012,0 171 1 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 303,0 177 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 2512,0 178 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 439,0 179 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 397,0 180 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 283,0 181 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 275,0 182 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 113,0 183 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 311,0 184 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 1179,0 185 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 57,0 186 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 2837,0 187 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 2532,0 188 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 847,0 189 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 71,0 190 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 99,0 191 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 1701,0 192 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+GRAPHIC 1709,0 193 0 
+DESIGN manchester_decoder
+VIEW struct.bd
+NO_GRAPHIC 196

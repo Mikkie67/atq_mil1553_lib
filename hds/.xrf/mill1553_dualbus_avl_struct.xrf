@@ -1,0 +1,326 @@
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 18,0 3 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 81,0 9 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 1559,0 10 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 96,0 11 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 176,0 12 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 613,0 13 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 116,0 14 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 528,0 15 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 533,0 16 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 538,0 17 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 543,0 18 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 956,0 19 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 951,0 20 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 946,0 21 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 86,0 22 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 111,0 23 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 273,0 24 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 197,0 25 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 76,0 26 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 101,0 27 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 583,0 28 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 563,0 29 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 573,0 30 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 568,0 31 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 553,0 32 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 548,0 33 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 578,0 34 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 558,0 35 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 1633,0 36 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 1,0 39 0 
+DESIGN mill1553_dualbus_avl
+VIEW symbol.sb
+GRAPHIC 1,0 40 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+NO_GRAPHIC 43
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 505,0 47 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+NO_GRAPHIC 50
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 0,0 53 2 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 695,0 58 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 715,0 59 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 731,0 60 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 723,0 61 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 739,0 62 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+NO_GRAPHIC 63
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+NO_GRAPHIC 64
+LIBRARY mil1553_lib
+DESIGN mill1553_dualbus
+VIEW struct
+GRAPHIC 573,0 66 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 81,0 68 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 1559,0 69 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 121,0 70 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 96,0 71 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 528,0 72 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 538,0 73 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 533,0 74 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 543,0 75 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 176,0 76 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 613,0 77 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 116,0 78 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 956,0 79 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 951,0 80 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 946,0 81 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 86,0 82 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 111,0 83 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 273,0 84 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 197,0 85 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 76,0 86 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 101,0 87 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 578,0 88 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 558,0 89 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 573,0 90 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 553,0 91 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 568,0 92 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 548,0 93 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 583,0 94 0 
+DESIGN mill1553_dualbus
+VIEW symbol.sb
+GRAPHIC 563,0 95 0 
+LIBRARY mil1553_lib
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+NO_GRAPHIC 98
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 573,0 101 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+NO_GRAPHIC 104
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 703,0 107 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+NO_GRAPHIC 117
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+NO_GRAPHIC 118
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 573,0 120 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 15,0 122 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 29,0 123 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 697,0 124 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 71,0 125 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 183,0 126 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 211,0 127 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 197,0 128 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 225,0 129 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 127,0 130 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 141,0 131 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 169,0 132 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 253,0 133 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 239,0 134 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 295,0 135 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 407,0 136 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 43,0 137 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 155,0 138 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 85,0 139 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 99,0 140 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 113,0 141 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 717,0 142 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 733,0 143 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 309,0 144 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 337,0 145 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 323,0 146 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 351,0 147 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 725,0 148 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+GRAPHIC 741,0 149 0 
+DESIGN mill1553_dualbus_avl
+VIEW struct.bd
+NO_GRAPHIC 152

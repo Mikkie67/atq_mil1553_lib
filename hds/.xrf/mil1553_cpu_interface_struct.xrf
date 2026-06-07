@@ -1,0 +1,1254 @@
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 18,0 8 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 13,0 15 1 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22358,0 19 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22368,0 20 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22428,0 21 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22433,0 22 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22438,0 23 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22493,0 24 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22498,0 25 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22443,0 26 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22453,0 27 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22458,0 28 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22463,0 29 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22468,0 30 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22483,0 31 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22488,0 32 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22508,0 33 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22513,0 34 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22523,0 35 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22528,0 36 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22563,0 37 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22568,0 38 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22573,0 39 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22578,0 40 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22583,0 41 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22593,0 42 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22603,0 43 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22608,0 44 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22628,0 45 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22663,0 46 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22673,0 47 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22678,0 48 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22683,0 49 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22688,0 50 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22693,0 51 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22698,0 52 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22713,0 53 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22723,0 54 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22728,0 55 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22733,0 56 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22738,0 57 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22743,0 58 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22748,0 59 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22753,0 60 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22758,0 61 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22803,0 62 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22808,0 63 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22813,0 64 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22818,0 65 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22833,0 66 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22838,0 67 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22843,0 68 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22848,0 69 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22853,0 70 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22403,0 71 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22613,0 72 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22763,0 73 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22768,0 74 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22773,0 75 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22778,0 76 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22783,0 77 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22788,0 78 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22793,0 79 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22798,0 80 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22363,0 81 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22373,0 82 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22378,0 83 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22383,0 84 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22388,0 85 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22393,0 86 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22398,0 87 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22408,0 88 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22413,0 89 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22418,0 90 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22423,0 91 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22503,0 92 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22448,0 93 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22473,0 94 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22518,0 95 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22533,0 96 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22543,0 97 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22548,0 98 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22553,0 99 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22558,0 100 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22668,0 101 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22703,0 102 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22708,0 103 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22718,0 104 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 23086,0 105 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 23081,0 106 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22823,0 107 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22828,0 108 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22478,0 109 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22618,0 110 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22623,0 111 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22638,0 112 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22643,0 113 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22648,0 114 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22653,0 115 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22658,0 116 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22633,0 117 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22538,0 118 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22588,0 119 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 22598,0 120 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 1,0 123 0 
+DESIGN mil1553_cpu_interface
+VIEW symbol.sb
+GRAPHIC 1,0 124 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 127
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 921,0 135 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 138
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 0,0 142 2 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2004,0 147 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 16635,0 148 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 16929,0 149 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 3578,0 150 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1896,0 151 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 20840,0 152 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 22438,0 153 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 22402,0 154 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 22494,0 155 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 22390,0 156 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1844,0 157 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1852,0 158 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10338,0 159 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10340,0 160 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 3594,0 161 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 3586,0 162 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 28341,0 163 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 28327,0 164 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 3556,0 165 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1870,0 166 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10314,0 167 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10270,0 168 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1842,0 169 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1872,0 170 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 13792,0 171 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 20852,0 172 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1880,0 173 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1868,0 174 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1878,0 175 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2276,0 176 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 17910,0 177 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 4211,0 178 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 4219,0 179 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2278,0 180 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 5454,0 181 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 5462,0 182 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 5470,0 183 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 5478,0 184 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1798,0 185 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1808,0 186 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 5486,0 187 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 5494,0 188 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 6346,0 189 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10646,0 190 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 7200,0 191 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2400,0 192 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2408,0 193 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 23203,0 194 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1902,0 195 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2420,0 196 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 17902,0 197 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 12151,0 198 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1846,0 199 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1862,0 200 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 13778,0 201 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10342,0 202 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10344,0 203 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10364,0 204 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10366,0 205 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10654,0 206 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2476,0 207 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2320,0 208 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2480,0 209 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2318,0 210 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2390,0 211 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1854,0 212 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1858,0 213 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 214
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 113,0 216 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 127,0 217 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 141,0 218 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 155,0 219 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 449,0 220 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 463,0 221 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 477,0 222 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 491,0 223 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 505,0 224 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 226
+LIBRARY at_gen_lib
+DESIGN edge_detect
+VIEW arc
+GRAPHIC 29199,0 228 0 
+DESIGN edge_detect
+VIEW symbol.sb
+GRAPHIC 14,0 229 1 
+DESIGN edge_detect
+VIEW arc
+GRAPHIC 62,0 233 0 
+DESIGN edge_detect
+VIEW arc
+GRAPHIC 57,0 234 0 
+DESIGN edge_detect
+VIEW arc
+GRAPHIC 67,0 235 0 
+DESIGN edge_detect
+VIEW arc
+GRAPHIC 72,0 236 0 
+DESIGN edge_detect
+VIEW arc
+GRAPHIC 52,0 237 0 
+LIBRARY mil1553_lib
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 32724,0 240 0 
+DESIGN mil1553_cpu_registers
+VIEW symbol.sb
+GRAPHIC 14,0 241 1 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 51,0 246 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 131,0 247 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 136,0 248 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 241,0 249 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 521,0 250 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 101,0 251 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 236,0 252 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 141,0 253 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 146,0 254 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 201,0 255 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 1948,0 256 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2035,0 257 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 1908,0 258 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 1903,0 259 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 1264,0 260 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 1284,0 261 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 1259,0 262 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2708,0 263 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2713,0 264 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2718,0 265 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2723,0 266 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2698,0 267 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2703,0 268 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 1249,0 269 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 1254,0 270 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 1417,0 271 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 1422,0 272 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 1559,0 273 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2847,0 274 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 1569,0 275 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2092,0 276 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2790,0 277 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 1584,0 278 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2149,0 279 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2156,0 280 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2161,0 281 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2166,0 282 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2171,0 283 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2932,0 284 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2181,0 285 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2186,0 286 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2191,0 287 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2196,0 288 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2201,0 289 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2206,0 290 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2211,0 291 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2216,0 292 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2301,0 293 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2306,0 294 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2311,0 295 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2316,0 296 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2381,0 297 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2386,0 298 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2391,0 299 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2937,0 300 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2401,0 301 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2406,0 302 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2411,0 303 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2416,0 304 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2421,0 305 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2426,0 306 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2431,0 307 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2436,0 308 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2996,0 309 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 2527,0 310 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 3053,0 311 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 3088,0 312 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 3125,0 313 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 3182,0 314 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 3187,0 315 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 3354,0 316 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 3384,0 317 0 
+DESIGN mil1553_cpu_registers
+VIEW rtl
+GRAPHIC 3389,0 318 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1252,0 321 0 
+DESIGN ram_dp_1kx17
+VIEW @s@y@n
+GRAPHIC 19,0 323 0 
+DESIGN ram_dp_1kx17
+VIEW @s@y@n
+GRAPHIC 25,0 324 0 
+DESIGN ram_dp_1kx17
+VIEW @s@y@n
+GRAPHIC 35,0 325 0 
+DESIGN ram_dp_1kx17
+VIEW @s@y@n
+GRAPHIC 40,0 326 0 
+DESIGN ram_dp_1kx17
+VIEW @s@y@n
+GRAPHIC 45,0 327 0 
+DESIGN ram_dp_1kx17
+VIEW @s@y@n
+GRAPHIC 30,0 328 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 33255,0 331 0 
+DESIGN repeat_timer
+VIEW symbol.sb
+GRAPHIC 14,0 332 1 
+DESIGN repeat_timer
+VIEW symbol.sb
+GRAPHIC 224,0 336 0 
+DESIGN repeat_timer
+VIEW symbol.sb
+GRAPHIC 436,0 337 0 
+DESIGN repeat_timer
+VIEW symbol.sb
+GRAPHIC 229,0 338 0 
+DESIGN repeat_timer
+VIEW symbol.sb
+GRAPHIC 515,0 339 0 
+DESIGN repeat_timer
+VIEW symbol.sb
+GRAPHIC 520,0 340 0 
+DESIGN repeat_timer
+VIEW symbol.sb
+GRAPHIC 535,0 341 0 
+DESIGN repeat_timer
+VIEW symbol.sb
+GRAPHIC 540,0 342 0 
+DESIGN repeat_timer
+VIEW symbol.sb
+GRAPHIC 510,0 343 0 
+DESIGN repeat_timer
+VIEW symbol.sb
+GRAPHIC 584,0 344 0 
+DESIGN repeat_timer
+VIEW symbol.sb
+GRAPHIC 525,0 345 0 
+DESIGN repeat_timer
+VIEW symbol.sb
+GRAPHIC 646,0 346 0 
+DESIGN repeat_timer
+VIEW symbol.sb
+GRAPHIC 641,0 347 0 
+DESIGN repeat_timer
+VIEW symbol.sb
+GRAPHIC 651,0 348 0 
+LIBRARY mil1553_lib
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 351
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 29199,0 354 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 32724,0 355 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1252,0 356 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 33255,0 357 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 360
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10316,0 363 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 367
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1344,0 368 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 414
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1334,0 415 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 528
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 22470,0 529 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 539
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10155,0 540 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 545
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 546
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 29199,0 548 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 29206,0 549 1 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1716,0 553 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1736,0 554 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1752,0 555 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10324,0 557 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 29229,0 559 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 29236,0 560 1 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2366,0 564 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2378,0 565 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2372,0 566 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10332,0 568 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 32721,0 570 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 31610,0 571 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 32724,0 572 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 32731,0 573 1 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 15,0 578 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 169,0 579 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 183,0 580 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 435,0 581 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 799,0 582 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 99,0 583 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 421,0 584 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1746,0 585 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 22384,0 586 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 295,0 587 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 505,0 588 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1464,0 590 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1476,0 591 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 491,0 592 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 631,0 593 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 477,0 594 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 5472,0 595 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 5480,0 596 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 5488,0 597 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 5496,0 598 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 5456,0 599 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 5464,0 600 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 365,0 602 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 449,0 603 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 463,0 604 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 7202,0 606 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 337,0 607 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2280,0 608 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2262,0 609 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 27910,0 610 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1586,0 611 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2402,0 612 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1730,0 613 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 141,0 614 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 113,0 615 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 7984,0 616 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 4213,0 623 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 645,0 625 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 351,0 626 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 379,0 627 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2410,0 628 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 2422,0 629 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 155,0 630 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 127,0 631 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 7998,0 632 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 4221,0 639 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10648,0 641 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 5446,0 642 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 12153,0 643 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 16637,0 644 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 16629,0 645 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 17904,0 646 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 17912,0 647 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 23205,0 648 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 6926,0 649 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 6912,0 650 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1252,0 652 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1692,0 654 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1710,0 655 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1670,0 656 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1676,0 657 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1688,0 658 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1664,0 659 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1218,0 661 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1610,0 663 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1698,0 664 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1636,0 665 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1622,0 666 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1616,0 667 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 1704,0 668 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 33255,0 670 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 33262,0 671 1 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10215,0 675 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10227,0 676 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10233,0 677 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10258,0 678 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10252,0 679 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10264,0 680 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10246,0 681 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10221,0 683 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 10240,0 684 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 113,0 691 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 127,0 692 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 141,0 693 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 155,0 694 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 449,0 695 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 463,0 696 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 477,0 697 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 491,0 698 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+GRAPHIC 505,0 699 0 
+DESIGN mil1553_cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 701

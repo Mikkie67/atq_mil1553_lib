@@ -1,0 +1,51 @@
+	component nios_conv_usb_1553 is
+		port (
+			clk_clk                      : in  std_logic                     := 'X';             -- clk
+			clk_50_clk                   : in  std_logic                     := 'X';             -- clk
+			conv_registers_waitrequest   : in  std_logic                     := 'X';             -- waitrequest
+			conv_registers_readdata      : in  std_logic_vector(15 downto 0) := (others => 'X'); -- readdata
+			conv_registers_readdatavalid : in  std_logic                     := 'X';             -- readdatavalid
+			conv_registers_burstcount    : out std_logic_vector(0 downto 0);                     -- burstcount
+			conv_registers_writedata     : out std_logic_vector(15 downto 0);                    -- writedata
+			conv_registers_address       : out std_logic_vector(8 downto 0);                     -- address
+			conv_registers_write         : out std_logic;                                        -- write
+			conv_registers_read          : out std_logic;                                        -- read
+			conv_registers_byteenable    : out std_logic_vector(1 downto 0);                     -- byteenable
+			conv_registers_debugaccess   : out std_logic;                                        -- debugaccess
+			discrete_inputs_export       : in  std_logic_vector(15 downto 0) := (others => 'X'); -- export
+			discrete_outputs_export      : out std_logic_vector(15 downto 0);                    -- export
+			mil1553_waitrequest          : in  std_logic                     := 'X';             -- waitrequest
+			mil1553_readdata             : in  std_logic_vector(15 downto 0) := (others => 'X'); -- readdata
+			mil1553_readdatavalid        : in  std_logic                     := 'X';             -- readdatavalid
+			mil1553_burstcount           : out std_logic_vector(0 downto 0);                     -- burstcount
+			mil1553_writedata            : out std_logic_vector(15 downto 0);                    -- writedata
+			mil1553_address              : out std_logic_vector(11 downto 0);                    -- address
+			mil1553_write                : out std_logic;                                        -- write
+			mil1553_read                 : out std_logic;                                        -- read
+			mil1553_byteenable           : out std_logic_vector(1 downto 0);                     -- byteenable
+			mil1553_debugaccess          : out std_logic;                                        -- debugaccess
+			reset_reset_n                : in  std_logic                     := 'X';             -- reset_n
+			reset_50_reset_n             : in  std_logic                     := 'X';             -- reset_n
+			uart1_waitrequest            : in  std_logic                     := 'X';             -- waitrequest
+			uart1_readdata               : in  std_logic_vector(15 downto 0) := (others => 'X'); -- readdata
+			uart1_readdatavalid          : in  std_logic                     := 'X';             -- readdatavalid
+			uart1_burstcount             : out std_logic_vector(0 downto 0);                     -- burstcount
+			uart1_writedata              : out std_logic_vector(15 downto 0);                    -- writedata
+			uart1_address                : out std_logic_vector(8 downto 0);                     -- address
+			uart1_write                  : out std_logic;                                        -- write
+			uart1_read                   : out std_logic;                                        -- read
+			uart1_byteenable             : out std_logic_vector(1 downto 0);                     -- byteenable
+			uart1_debugaccess            : out std_logic;                                        -- debugaccess
+			uart2_waitrequest            : in  std_logic                     := 'X';             -- waitrequest
+			uart2_readdata               : in  std_logic_vector(15 downto 0) := (others => 'X'); -- readdata
+			uart2_readdatavalid          : in  std_logic                     := 'X';             -- readdatavalid
+			uart2_burstcount             : out std_logic_vector(0 downto 0);                     -- burstcount
+			uart2_writedata              : out std_logic_vector(15 downto 0);                    -- writedata
+			uart2_address                : out std_logic_vector(8 downto 0);                     -- address
+			uart2_write                  : out std_logic;                                        -- write
+			uart2_read                   : out std_logic;                                        -- read
+			uart2_byteenable             : out std_logic_vector(1 downto 0);                     -- byteenable
+			uart2_debugaccess            : out std_logic                                         -- debugaccess
+		);
+	end component nios_conv_usb_1553;
+
